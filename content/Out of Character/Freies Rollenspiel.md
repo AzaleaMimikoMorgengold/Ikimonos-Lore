@@ -20,7 +20,7 @@ In der Welt des freien Rollenspiels schlüpfen die Teilnehmer in die Rollen ihre
 
 ## Ideal für
 
-- **Rollenspiel-Enthusiasten:** Wer Chat-Rollenspiele, Forumsrollenspiele oder Pen&Paper gespielt hat, hat schon Erfahrung gemacht mit Rollenspiel. Wer in der [[GNS-Theorie|GNS-Theorie]] im Mechanischen Eck sein Zuhause hat, wird sich tendenziell weniger wohl fühlen und wer im [[Bartl-Test|Bartl-Test]] ein Socializer ist, wird vermutlich aufblühen.
+- **Rollenspiel-Enthusiasten:** Wer Chat-Rollenspiele, Forumsrollenspiele oder Pen&Paper gespielt hat, hat schon Erfahrung gemacht mit Rollenspiel. Wer in der [GNS-Theorie](https://de.wikipedia.org/wiki/GNS-Theorie) im Mechanischen Eck sein Zuhause hat, wird sich tendenziell weniger wohl fühlen und wer im [Bartle-Test](https://de.wikipedia.org/wiki/Bartle-Test) ein Socializer ist, wird vermutlich aufblühen.
 - **Schreibende und Kreativ-Aktive:** Für jene, die es lieben, Charaktere zu erschaffen und ihre eigene Geschichte zu weben.
 - **Fans improvisierter Unterhaltung:** Für Spieler, die die Spontaneität und das Unvorhersehbare des Geschichtenerzählens schätzen.
 - **Gruppenaktivitäten:** Perfekt für Freunde oder Gruppen, die zusammenkommen, um eine gemeinsame narrative Welt zu erkunden und zu erleben.
