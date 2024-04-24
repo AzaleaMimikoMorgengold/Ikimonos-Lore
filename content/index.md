@@ -1,4 +1,3 @@
-This is your new *vault*.
 # Willkommen
 
 Das hier ist die Übersichtsseite von der wahrlich weirden Rollenspielgeschichte, deren Eckdaten sich [[Azalea|Azalea]] 2009 ausgedacht hat.  Wenn du hierhin gefunden hast, suchst du wahrscheinlich nach einem [[List of Characters | Charakter]] oder [[List of Locations | Ort]]. Viel Spaß beim stöbern.
