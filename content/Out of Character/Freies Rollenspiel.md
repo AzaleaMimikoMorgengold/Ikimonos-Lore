@@ -1,4 +1,3 @@
-# Freies Rollenspiel?
 
 Freies Rollenspiel ist als eine Rollenspielform, die meist mündlich, im Stile eines improvisierten Theaters, praktiziert wird. Die Teilnehmer erschaffen und entfalten Geschichten durch ungezwungene Interaktion, ungebunden von festen Skripten oder rigiden Regelwerken.
 
