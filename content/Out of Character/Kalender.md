@@ -5,7 +5,7 @@ share: true
 Heute ist der 07.10.2153
 
 
-| Tag | Januar | Februar |   März   | April |      Mai       | Juni  |  Juli   | August  | September | Oktober  | November | Dezember |
+| Tag | Jan. | Feb. |   März   | April |      Mai       | Juni  |  Juli   | Aug.  | Sep. | Okt.  | Nov. | Dez. |
 |:---:|:------:|:-------:|:--------:|:-----:|:--------------:|:-----:|:-------:|:-------:|:---------:|:--------:|:--------:|:--------:|
 |  1  |        |         |          |       |                |       |         |         |           |          |          |          |
 |  2  |        |         |          | Maya  |                |       |         |         | Sebastian F |          |          |          |
