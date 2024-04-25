@@ -1,3 +1,9 @@
+---
+img: 
+alias: 
+tags: 
+share: true
+---
 ## Charakter 
 Ein vom Spieler kreierter und gesteuerter fiktiver Akteur, der als wichtige Figur fungiert. Durch seine Interaktionen und Entscheidungen treibt er die Handlung voran. [[PC|PC]][[NPC|NPC]]
 
