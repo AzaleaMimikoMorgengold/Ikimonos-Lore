@@ -2,6 +2,7 @@
 img: 
 alias: 
 tags: 
+share: true
 ---
 # Who?
 ## Azalea Mimiko Morgengold - WahrlichWeird

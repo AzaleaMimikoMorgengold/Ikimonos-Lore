@@ -1,3 +1,9 @@
+---
+img: 
+alias: 
+tags: 
+share: true
+---
 # Willkommen
 
 Das hier ist die Übersichtsseite von der wahrlich weirden Rollenspielgeschichte, deren Eckdaten sich [[./Out of Character/Azalea|Azalea]] 2009 ausgedacht hat.  Wenn du hierhin gefunden hast, suchst du wahrscheinlich nach einem [[List of Characters | Charakter]] oder [[List of Locations | Ort]]. Viel Spaß beim stöbern.
@@ -28,7 +34,7 @@ Bitte beachtet, dass wir, obwohl wir oft komödiantische Elemente und gelegentli
  **LETZTES UPDATE**
  ==24.04.2024==
 [[./Out of Character/Azalea|Azalea]]
-[[./Out of Character/Kalender|Kalender]]
+[[Kalender|Kalender]]
 *[[./Out of Character/Freies Rollenspiel|Freies Rollenspiel]]*
 [[./Out of Character/Glossar|Glossar]]
  
