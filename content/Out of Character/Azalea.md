@@ -12,7 +12,6 @@ share: true
 - weiblich, Genderfluid, non-binary (Pronomen: Sie/Ihr, They/Them, Fae/Faer/Faeself)
 - demisexuell, panromantisch, polyamor
 ---
----
 - **Interessen & Hobbies:** Katzen, Rollenspiele, Fantasy, Schreiben, Puzzle, Rätsel, Brettspiele, Gesellschaftsspiele, Sprache, Random Funfacts und Wissen, Vtubing, Streaming, True Crime, Basteln, Cosplay, Nähen
 - **Vorlieben:** Supporting Freunde, Tierschutz, Naturschutz, Künstler und Small Businesses, Perfekte Auskommen, Harmonie
 - **Abneigungen:** So gut wie jedes Essen, was normale Menschen essen. Thanks Childhood Trauma (┬┬﹏┬┬); Grenzüberschreitung; Bullies; Leute die über die Bedeutung von Worten lügen/scherzen; keine klare Absage bekommen; Shitstorms; 
