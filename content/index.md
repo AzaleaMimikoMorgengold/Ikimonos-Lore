@@ -34,7 +34,7 @@ Bitte beachtet, dass wir, obwohl wir oft komödiantische Elemente und gelegentli
  **LETZTES UPDATE**
  ==24.04.2024==
 [[./Out of Character/Azalea|Azalea]]
-[[Kalender|Kalender]]
+[[./Out of Character/Kalender|Kalender]]
 *[[./Out of Character/Freies Rollenspiel|Freies Rollenspiel]]*
 [[./Out of Character/Glossar|Glossar]]
  
