@@ -5,19 +5,26 @@ tags:
 share: true
 ---
 ## Charakter 
-Ein vom Spieler kreierter und gesteuerter fiktiver Akteur, der als wichtige Figur fungiert. Durch seine Interaktionen und Entscheidungen treibt er die Handlung voran. [[PC|PC]][[NPC|NPC]]
+Ein vom Spieler kreierter und gesteuerter fiktiver Akteur, der als wichtige Figur fungiert. Durch seine Interaktionen und Entscheidungen treibt er die Handlung voran. [[Glossar#Player Character (PC)|Player Character (PC)]][[Glossar#Non-Player Character (NPC)|Non-Player Character (NPC)]]
 
 ## Handlung
 Die zentrale Geschichte oder Sequenz von Ereignissen und Abenteuern, die die Spieler durch ihre Charaktere erleben. In einem freien Rollenspiel entwickelt sich die Handlung organisch, basierend auf den Entscheidungen der Spieler.
 
 ## In-Character (IC)
-
+Dieser Ausdruck bezieht sich auf alle Aussagen, Handlungen oder anderes, die "in Character", also "als Charakter/ innerhalb der fiktiven Welt" stattfinden. Im Gegensatz dazu steht [[Glossar#Out of Character (OoC oder OOC)|Out of Character (OoC oder OOC)]].
 
 ## Interaktion
 Der Austausch zwischen Charakteren (spielerisch und nicht-spielerisch), durch den die Geschichte vorangetrieben und die Beziehungen innerhalb der Spielwelt entwickelt werden.
 
 ## Non-Player Character (NPC)
-Ein von dem Spielleiter gesteuerter Charakter, der nicht von einem Spieler, sondern vom Spielleiter übernommen wird. NPCs können Verbündete, Gegner, neutrale Begegnungen oder einfache Hintergrundcharaktere sein.
+Ein von dem Spielleiter gesteuerter Charakter, der nicht von einem Spieler, sondern vom Spielleiter übernommen wird. NPCs können Verbündete, Gegner, neutrale Begegnungen oder einfache Hintergrundcharaktere sein. [[Glossar#Charakter|Charakter]][[Glossar#Player Character (PC)|Player Character (PC)]]
+
+## Out of Character (OoC  oder OOC)
+Out of Character ist im Gegensatz zu [[Glossar#In-Character (IC)|In-Character (IC)]] eine Aussage, Handlung oder ähnliches, die von einem Spieler, dem Spielleiter oder anderen getroffen wird, die nichts mit der Handlung der Charaktere zu tun haben.
+
+## Player Character (PC)
+Der Spielercharakter (oft abgekürzt als SC, Char oder PC von englisch player character) ist eine fiktive Figur, welche von einem Spieler gesteuert bzw. gespielt wird.
+[[Glossar#Charakter|Charakter]][[Glossar#Non-Player Character (NPC)|Non-Player Character (NPC)]]
 
 ## Plot
 Der grundlegende Rahmen der Geschichte, der die Hauptereignisse und Konflikte enthält, die die Spieler erkunden und lösen sollen. Im freien Rollenspiel ist der Plot oft flexibel und kann sich dynamisch ändern.
