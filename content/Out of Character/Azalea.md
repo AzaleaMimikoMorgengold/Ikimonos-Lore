@@ -65,10 +65,13 @@ Jede neue Runde, die schief geht, erschwert es bis ins Unendliche.
 Also falls ihr Platz in eurer Runde habt, für mich und evtl auch einen anderen Mitspieler, überlegt euch gut, ob mir jemanden mit massiven psychischen Problemen "tragen" könnt.
 
 
-
-
-
-
+#### Want to know more?
+Stellt die Fragen im Stream,
+### Montags ab 13.30
+### Donnerstags ab 19.00
+oder in meinem Discord!
+---
+---
 ### **Wo findet ihr Azalea**
 - [Carrd](https://wahrlichweird.carrd.co/ "https://wahrlichweird.carrd.co/") 
 - [Twitch](https://t.co/d8z3QjRlNX)
@@ -78,19 +81,14 @@ Also falls ihr Platz in eurer Runde habt, für mich und evtl auch einen anderen 
 - [Vtuber Instagram]](https://www.instagram.com/wahrlichweird/ "https://www.instagram.com/wahrlichweird/")
 - [Vtuber Tiktok](https://www.tiktok.com/@wahrlichweird?lang=de "https://www.tiktok.com/@wahrlichweird?lang=de") 
 
-(WORK IN PROGRESS - )
-
-
-
-
-
-
-
----
----
 ## Trivia
-- **Kuriose Fakten:**
-- **Findet man nie ohne:**
-- **Lebensmotto**
-## Zitate
-- **Lieblingszitat:**
+- Ich lasse meine Charaktere gerne leiden; aber nur, weil ich will, dass sie am Ende ein Happy End haben. Sich im Schnee die Finger abfrieren ist auch nur schön, wenn danach die warme Tasse Erdbeermilch auf einen wartet.
+- Ich habe meine ersten 500+ Würfel benannt, ab dann wurde es langsam zu viel. Ein paar tragen ihren Namen immernoch!
+- Ich hab meinen RPG-Daddy verloren und bin darüber echt sad. Mehr RP-Partner sind immer gern gesehen, aber meine Zeit ist derzeit beschissen
+- Ich spiele auch Seriencharaktere, aber die sind nicht wirklich IC (ಥ _ ಥ)
+  
+#### Zitate
+**Lieblingszitate über meine Rollenspiele:**
+- "Ich weiß es ist nur gespielt, aber selbst ich denke, dass sie Streiten"
+- "Oh nein"  
+- "Wie schlimm wäre es, wenn...."
