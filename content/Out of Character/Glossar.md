@@ -10,6 +10,9 @@ Ein vom Spieler kreierter und gesteuerter fiktiver Akteur, der als wichtige Figu
 ## Handlung
 Die zentrale Geschichte oder Sequenz von Ereignissen und Abenteuern, die die Spieler durch ihre Charaktere erleben. In einem freien Rollenspiel entwickelt sich die Handlung organisch, basierend auf den Entscheidungen der Spieler.
 
+## In-Character (IC)
+
+
 ## Interaktion
 Der Austausch zwischen Charakteren (spielerisch und nicht-spielerisch), durch den die Geschichte vorangetrieben und die Beziehungen innerhalb der Spielwelt entwickelt werden.
 
