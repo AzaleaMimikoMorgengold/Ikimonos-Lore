@@ -6,7 +6,7 @@ share: true
 ---
 # Willkommen
 
-Das hier ist die Übersichtsseite von der wahrlich weirden Rollenspielgeschichte, deren Eckdaten sich [[./Out of Character/Azalea|Azalea]] 2009 ausgedacht hat.  Wenn du hierhin gefunden hast, suchst du wahrscheinlich nach einem [[List of Characters | Charakter]] oder [[List of Locations | Ort]]. Viel Spaß beim stöbern.
+Das hier ist die Übersichtsseite von der wahrlich weirden Rollenspielgeschichte, deren Eckdaten sich [[./Out of Character/Azalea|Azalea]] 2009 ausgedacht hat.  Wenn du hierhin gefunden hast, suchst du wahrscheinlich nach einem [[Charakterliste | Charakter]] oder [[List of Locations | Ort]]. Viel Spaß beim stöbern.
 
 Aktuell spielen wir Ikimonos immer
 ### Freitags, ab 16.00 Uhr auf [Twitch](https://t.co/d8z3QjRlNX)
