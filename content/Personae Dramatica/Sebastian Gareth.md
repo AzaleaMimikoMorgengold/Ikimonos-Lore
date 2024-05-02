@@ -12,7 +12,7 @@ tags:
 - **Titel:** - 
 - **Alias-Identitäten:** MS 
 
-- **Geburtstag:**  20.10.2119 ( Waage | ♎ )
+- **Geburtstag:**  20.10.2119 (Waage | ♎)
 - **Alter:**  33
 - **Beruf/Ausbildung:** Kellner
 - **Bildung:**  mittlere Bildung
