@@ -6,7 +6,7 @@ share: true
 ---
 # Who?
 ## Azalea Mimiko Morgengold - WahrlichWeird
-##### Die Spielleiterin, Vtuber, Streamerin, Dice Dragon, comfy creative chaotic, absolut größenwahnsinnig und Vollzeit (/≧▽≦)/ Certified Nut Job (\\≧▽≦)\
+##### Die Spielleiterin, Vtuber, Streamerin, Dice Dragon, comfy creative chaotic, absolut größenwahnsinnig und Vollzeit (/≧▽≦)/ Certified Nut Job \\(≧▽≦\\)
 
 - **Geburtstag:** 09. August( ♌)
 - weiblich, Genderfluid, non-binary (Pronomen: Sie/Ihr, They/Them, Fae/Faer/Faeself)
