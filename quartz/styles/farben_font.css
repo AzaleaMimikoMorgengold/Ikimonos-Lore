@@ -1,0 +1,57 @@
+/* Basisdefinition für Schriftarten */
+body {
+  font-family: open sans, sans-serif;
+}
+
+/* Tagmodus-Farben */
+.theme-light {
+  --standard-color: #333333; /* Dunkelgrau */
+  --spyder-color: #800020; /* Burgunder */
+  --color-3: #006400; /* Dunkelgrün */
+  --color-4: #00008B; /* Dunkelblau */
+  --color-5: #4B0082; /* Indigo */
+}
+
+/* Nachtmodus-Farben */
+.theme-dark {
+  --standard-color: #CCCCCC; /* Helles Grau */
+  --spyder-color: #B03060; /* Mittleres Rot */
+  --color-3: #00FF00; /* Helles Grün */
+  --color-4: #1E90FF; /* Leuchtendes Blau */
+  --color-5: #9400D3; /* Dunkles Violett */
+}
+
+/* Anwendung der Farbschemata für Text und Links */
+.text-standard { color: var(--standard-color); }
+.text-spyder { color: var(--spyder-color); }
+.text-color-3 { color: var(--color-3); }
+.text-color-4 { color: var(--color-4); }
+.text-color-5 { color: var(--color-5); }
+
+a.link-standard { color: var(--standard-color); }
+a.link-spyder { color: var(--spyder-color); }
+a.link-color-3 { color: var(--color-3); }
+a.link-color-4 { color: var(--color-4); }
+a.link-color-5 { color: var(--color-5); }
+
+/* Hover, Visited, und Focus Zustände ohne darken */
+a.link-standard:hover,
+a.link-standard:visited,
+a.link-standard:focus { color: #1a1a1a; }
+
+a.link-spyder:hover,
+a.link-spyder:visited,
+a.link-spyder:focus { color: #660015; }
+
+a.link-color-3:hover,
+a.link-color-3:visited,
+a.link-color-3:focus { color: #004D00; }
+
+a.link-color-4:hover,
+a.link-color-4:visited,
+a.link-color-4:focus { color: #000066; }
+
+a.link-color-5:hover,
+a.link-color-5:visited,
+a.link-color-5:focus { color: #36004D; }
+
