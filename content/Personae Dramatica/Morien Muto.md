@@ -47,26 +47,26 @@ tag:
 - **Erfolge:** Abgeschlossenes Abitur, Zweiter Platz bei einigen Martial Arts Turnieren
 ---
 ---
-## Biographie
-Geboren und aufgewachsen in Deutschland, in dem kleinen Städtchen wo das Anwesen seiner Familie steht, nach abgeschlossenem Abitur ging er nach Neo-Berlin um zu arbeiten und fing später ein Informatik Studium an.   
----
----
+## Biographie 
+ Geboren und aufgewachsen in Deutschland, in dem kleinen Städtchen wo das Anwesen seiner Familie steht, nach abgeschlossenem Abitur ging er nach Neo-Berlin um zu arbeiten und fing später ein Informatik Studium an.   
+ 
 ## Soziales Netzwerk
 ### Familie
 Stammbaum]]
  ---
  ---
-Angela Weber]] (Oma Mütterlicherseits) • Marie Muto]] (Mutter) • Ren Muto]] (Vater) • Natsuki Anna Muto]] (Oma Väterlicherseits) Jin Muto]] (Opa Väterlicherseits)  • Luke Weber]] (Onkel Mütterlicherseits) • Kenzo Muto]] (Onkel Väterlicherseits) • Himari Meyer]] (Tante Väterlicherseits) • Martin Meyer]] (Mann der Tante) • Annika Mai]] (Großtante/Schwester der Oma mütterlicherseits)
+ Angela Weber]] (Oma Mütterlicherseits) • Marie Muto]] (Mutter) • Ren Muto]] (Vater) • Natsuki Anna Muto]] (Oma Väterlicherseits) Jin Muto]] (Opa Väterlicherseits)  • Luke Weber]] (Onkel Mütterlicherseits) • Kenzo Muto]] (Onkel Väterlicherseits) • Himari Meyer]] (Tante Väterlicherseits) • Martin Meyer]] (Mann der Tante) • Annika Mai]] (Großtante/Schwester der Oma mütterlicherseits) 
+---
 Nanami Muto]] (Schwester)
- [[../Katrina Klava|Katrina Klava]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
+ [[Katrina Klava|Katrina Klava]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
 ##### Verstorben:
 Tom Koto Weber]] (Opa Mütterlicherseits) 
 ### (Ex-)Partner
 keine
 ### Romantische Interessen
-[[../Katrina Klava|Katrina Klava]]
+[[Katrina Klava|Katrina Klava]]
 ### Freunde
-[[../Katrina Klava|Katrina Klava]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
+[[Katrina Klava|Katrina Klava]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
 ### Frenemies/Rivals
 keine?
 ### Bekannte und Kollegen
@@ -93,3 +93,6 @@ vermutlich einige
 - Instagram:** 📷 Mr.MM**
 - Facebook:** 📘 Mr.MM**
 - Twitter:** 🐦 Mr.MM**
+
+
+(Information provided by Drako Akuma)
