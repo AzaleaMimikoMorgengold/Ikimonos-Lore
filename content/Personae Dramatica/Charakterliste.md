@@ -10,10 +10,10 @@ tag:
 |      [[./Morien Muto|Morien Muto]]      |        Cookie         |  [[./Sebastian Gareth|Sebastian Gareth]]   |
 |                           |                       |                         |
 |     ![[../z_Assets/Kat.png\|220]]     |    ![[../z_Assets/draugh.png|draugh.png]]    |   ![[../z_Assets/jacob.png\|220]]   |
-|       Katrina Klava       |     Vinur Draugs      |        Jacob Asa        |
+|     [[./Katrina Klava|Katrina Klava]]     |     Vinur Draugs      |      [[./Jacob Asa|Jacob Asa]]      |
 |                           |                       |                         |
 |    ![[../z_Assets/marie.png\|220]]    |  ![[../z_Assets/tyrel.png\|220]]  |  ![[../z_Assets/valval.png\|220]]   |
-|        Marie Muto         |      Tyrel Muto       |      Valerius Asa       |
+|        Marie Muto         |      Tyrel Muto       |    [[Valerius Asa|Valerius Asa]]     |
 |                           |                       |                         |
 |     ![[../z_Assets/ren.png\|220]]     | ![[../z_Assets/angela.png\|220]]  |  ![[../z_Assets/nesrin.png\|220]]   |
 |         Ren Muto          |     Angela Weber      |       Nesrin Asa        |
@@ -27,17 +27,17 @@ tag:
 |    ![[../z_Assets/Grace.png\|220]]    | ![[../z_Assets/rachel.png\|220]]  |   ![[../z_Assets/emily.png\|220]]   |
 |         Grace Asa         |      Rachel Asa       |        Emily Asa        |
 |                           |                       |                         |
-|     ![[../z_Assets/brianna.png|brianna.png]]      |     ![[../z_Assets/maya.png|maya.png]]     |     ![[../z_Assets/elias.png|elias.png]]      |
+|   ![[../z_Assets/brianna.png\|220]]   |  ![[../z_Assets/maya.png\|220]]   |   ![[../z_Assets/elias.png\|220]]   |
 |    Brianna "Brie" Asa     |       Maya Asa        |        Elias Asa        |
 |                           |                       |                         |
-|      ![[../z_Assets/Jonah.png|Jonah.png]]       |    ![[../z_Assets/oliver.png|oliver.png]]    |                         |
+|    ![[../z_Assets/Jonah.png\|220]]    | ![[../z_Assets/oliver.png\|220]]  |   ![[../z_Assets/cyrus.png\|220]]   |
 |         Jonah Asa         |      Oliver Asa       |        Cyrus Asa        |
 |                           |                       |                         |
 |    ![[../z_Assets/kerem.png\|220]]    | ![[../z_Assets/Benjiro.png\|220]] |  ![[../z_Assets/yonatan.png\|220]]  |
 | Dr Kerem Asa (Kriegsheld) |      Benjiro Asa      |       Yonatan Asa       |
 |                           |                       |                         |
 |                           |  ![[../z_Assets/nate.png\|220]]   |                         |
-|                           | Nathanael Gerbenrodt  |                         |
+|   [[Spyder|Spyder]]              | Nathanael Gerbenrodt  |                         |
 |                           |                       |                         |
 |                           |                       |                         |
 |                           |                       |                         |
