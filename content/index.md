@@ -1,12 +1,14 @@
 ---
+share: true
 img: 
 alias: 
 tags: 
-share: true
 ---
+
+![[./z_Assets/20240422_Thumbnail_Rolleplay_Zusammmenfassung.jpg|20240422_Thumbnail_Rolleplay_Zusammmenfassung.jpg]]  
 # Willkommen
 
-Das hier ist die Übersichtsseite von der wahrlich weirden Rollenspielgeschichte, deren Eckdaten sich [[./Out of Character/Azalea|Azalea]] 2009 ausgedacht hat.  Wenn du hierhin gefunden hast, suchst du wahrscheinlich nach einem [[Charakterliste | Charakter]] oder [[List of Locations | Ort]]. Viel Spaß beim stöbern.
+Das hier ist die Übersichtsseite von der wahrlich weirden Rollenspielgeschichte, deren Eckdaten sich [[./Out of Character/Azalea|Azalea]] 2009 ausgedacht hat.  Wenn du hierhin gefunden hast, suchst du wahrscheinlich nach einem [[./Personae Dramatica/Charakterliste|Charakter]] oder [[List of Locations | Ort]]. Viel Spaß beim stöbern.
 
 Aktuell spielen wir Ikimonos immer
 ### Freitags, ab 16.00 Uhr auf [Twitch](https://t.co/d8z3QjRlNX)
@@ -32,10 +34,10 @@ Bitte beachtet, dass wir, obwohl wir oft komödiantische Elemente und gelegentli
  Da wir aktiv daran arbeiten, aber euch möglichst rasch eine größtmögliche Übersicht geben zu können, werden viele Artikel vorerst noch recht unvollständig sein. Damit ihr wisst, wann es sich dreifach lohnt, in einen Artikel hineinzusehen,  findet ihr hier die geupdateten und die *fertig* gestellten Seiten seit dem letzten großen Update:
  
  **LETZTES UPDATE**
- ==24.04.2024==
-[[./Out of Character/Azalea|Azalea]]
-[[./Out of Character/Kalender|Kalender]]
-*[[./Out of Character/Freies Rollenspiel|Freies Rollenspiel]]*
-[[./Out of Character/Glossar|Glossar]]
+ ==03.05.2024==
+[[Jonah Asa|Jonah Asa]]
+[[./Personae Dramatica/Morien Muto|Morien Muto]]
+[[./Personae Dramatica/Sebastian Gareth|Sebastian Gareth]]
+[[./Personae Dramatica/Valerius Asa --- WIP|Valerius Asa --- WIP]]
  
- 
+ #### Ihr werdet jetzt zunehmend WIP Artikel finden, und Charaktere, die bisher nur Bilder haben - Wir arbeiten an mehr Informationen (und schöneren Layouts, in some cases)
