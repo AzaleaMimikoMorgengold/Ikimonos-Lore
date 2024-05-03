@@ -41,11 +41,11 @@ Anders als der Name es vermuten lässt, trägt nicht wirklich seine Firma das Ri
 Einen Deal mit seiner Firma einzugehen ist schon riskant und spricht Bände, aber einen Deal mit ihm selber einzugehen, heißt einen Deal mit dem Teufel zu machen.
 Denn was Jacob Asa wie kein anderer kann, ist es, Menschen zu umgarnen. Er lässt sie sich besonders fühlen, ist mitfühlsam, zeigt Verständnis. Seine Opfer merken erst, dass sie den größten Fehler ihres Lebens gemacht haben, wenn es zu spät ist.
 Durch diese Art Geschäfte zu machen hat Jacob die Jahre ein riesiges Netzwerk aus Gefallen, Informationen, Eigentum, Kontakten und Geldquellen aufgebaut. Das sorgt dafür, dass er noch mächtiger geworden ist. Er kann einem alles und jeden besorgen, nichts ist unmöglich, wenn man bereit ist den Preis zu zahlen. 
-- [x] Drogen, egal welche Menge und Art
-- [x] Waffen, egal welches Modell, Menge, vielleicht ein paar Raketen gefällig?
-- [x] Jemand soll verschwinden? Soll es ein Unfall sein oder doch vielleicht was Exotischeres
-- [x] Informationen, egal wie schwierig
-- [x] Deals, soll der Deal bestimmt klappen, lass ich ein paar Knochen knacken
+- ✓ Drogen, egal welche Menge und Art
+- ✓ Waffen, egal welches Modell, Menge, vielleicht ein paar Raketen gefällig?
+- ✓ Jemand soll verschwinden? Soll es ein Unfall sein oder doch vielleicht was Exotischeres
+- ✓ Informationen, egal wie schwierig
+- ✓ Deals, soll der Deal bestimmt klappen, lass ich ein paar Knochen knacken
 Kein Auftrag ist Jacob zu hoch, doch er weiß, welche Kämpfe er gewinnen kann und welche nicht. Sollte dennoch einmal ein Auftrag kommen, den er nicht schafft, kennt er Leute, die es schaffen, oder er überzeugt dich von einer besseren Alternative.
 Um ein paar seiner Deals zu nennen: Waffenverkauf an beide Kriegsparteien in einem Bürgerkrieg im Kongo, Sicherung der Handelsroute für den Kokainhandel vom "Diosa Blanca"-Kartell, zeitweilige Übernahme eben dieses Kartells durch einen Stellvertreter, Verkauf von diversen Patenten an konkurrierende Firmen, als Mittelsmann um den Handel mit Ländern zuzulassen die von Handelsembargos betroffen sind und waren, Verkauf von Uran, Entführung von diversen Personen für andere Nationen,...
 
@@ -103,3 +103,9 @@ Was Nesrin nicht weiß, ist das Jacob hinter ihrem Rücken den ein oder anderen 
 - Twitter:** 🐦 RiskWhisperer**
 
 (Information provided by BastianToGo)
+
+
+
+
+
+
