@@ -46,9 +46,9 @@ Nesrin ist, wie es in der Familie liegt, vom schlanken bis drahtigen Körperbau 
  [[Stammbaum|Stammbaum]]
 ---
 ---
- [[Cyrus Asa|Cyrus Asa]] (Vater) • [[Helena Asa|Helena Asa]] (Mutter)
+ [[../../Cyrus Asa|Cyrus Asa]] (Vater) • [[../../Helena Asa|Helena Asa]] (Mutter)
 ---
- [[Brianna "Brie" Asa|Brianna "Brie" Asa]] (Schwester) • [[Elias Asa|Elias Asa]]  (Bruder) • [[Emily Asa|Emily Asa]] (Schwester) • [[Grace Asa|Grace Asa]] (Schwester) • [[Jacob  Asa|Jacob  Asa]](Bruder) • [[Jonah Asa|Jonah Asa]]  (Bruder) • [[Lyra Asa|Lyra Asa]] (Schwester) • [[Maya Asa|Maya Asa]] (Schwester) • [[Oliver Asa|Oliver Asa]]  (Bruder) • [[Rachel Asa|Rachel Asa]] (Schwester) • [[Safiyyah "Fiya" Asa|Safiyyah "Fiya" Asa]] (Schwester) • [[./Valerius Asa --- WIP|Valerius Asa --- WIP]]  (Bruder) • [[Yonatan "Yoni" Asa|Yonatan "Yoni" Asa]] (Bruder)
+ [[Brianna "Brie" Asa|Brianna "Brie" Asa]] (Schwester) • [[../../Elias Asa|Elias Asa]]  (Bruder) • [[../../Emily Asa|Emily Asa]] (Schwester) • [[../../Grace Asa|Grace Asa]] (Schwester) • [[Jacob  Asa|Jacob  Asa]](Bruder) • [[../../Jonah Asa|Jonah Asa]]  (Bruder) • [[../../Lyra Asa|Lyra Asa]] (Schwester) • [[../../Maya Asa|Maya Asa]] (Schwester) • [[../../Oliver Asa|Oliver Asa]]  (Bruder) • [[../../Rachel Asa|Rachel Asa]] (Schwester) • [[Safiyyah "Fiya" Asa|Safiyyah "Fiya" Asa]] (Schwester) • [[./Valerius Asa --- WIP|Valerius Asa --- WIP]]  (Bruder) • [[Yonatan "Yoni" Asa|Yonatan "Yoni" Asa]] (Bruder)
 ---
  [[Grace Kind 1 Asa|Grace Kind 1 Asa]] (Nichte/Neffe/Nibling) • [[Grace Kind 2 Asa|Grace Kind 2 Asa]] (Nichte/Neffe/Nibling) 
 ---
@@ -61,7 +61,7 @@ zur Zeit keine; die letzte war zu schmerzhaft
 ### Freunde
 einige MitschülerInnen • einige Mit-InfluencerInnen • kinda [[./Valerius Asa --- WIP|Valerius Asa --- WIP]] • der coole Skateboard-Bro aus Neo-Sydney • einige KI Programme
 ### Bekannte und Kollegen
-zu viele, um sie hier aufzuführen  •  Manager1 • Manager3 • Manager3 • Manager4 • Tanzlehrer im Hip-Hop-Kurs • dieser Streetworker... [[Vinur Draugs|Vinur Draugs]] war es?
+zu viele, um sie hier aufzuführen  •  Manager1 • Manager3 • Manager3 • Manager4 • Tanzlehrer im Hip-Hop-Kurs • dieser Streetworker... [[../../Vinur Draugs|Vinur Draugs]] war es?
 ### Feinde
  Der "verschwundene" Ex-Manager • ChantalDances • Katharina R. • JaqueTheMenace • die meisten ihrer Lehrer
 ---
@@ -69,7 +69,7 @@ zu viele, um sie hier aufzuführen  •  Manager1 • Manager3 • Manager3 • 
 - **[[Benjiro|Benjiro]] (enger Freund)** 
 Anfangs hielt Nesrin Ben nur für einen Hund, aber als er älter wurde, gewann sie ihn als engen Freund lieb und verbrachte viel Zeit mit ihm und dadurch auch Valerius. Nach Valerius leidet sie sicherlich am meisten unter seinem Verschwinden.
  
-- **[[./Jacob Asa|Jacob Asa]] (Großer Bruder)**
+- **[[../../Jacob Asa --- WIP|Jacob Asa --- WIP]] (Großer Bruder)**
 So ganz wird Nesrin nicht aus Jacob schlau, einerseits gehört er zur Familie, wirkt freundlich und invested, andererseits gruselt er sie manchmal ganz schön, und irgendwie erinnert er sie dann an ihre Mutter, wenn diese sich unbeobachtet fühlt... Einfach zum Schaudern!
 
 - **[[./Valerius Asa --- WIP|Valerius Asa --- WIP]] (Großer Bruder)**
