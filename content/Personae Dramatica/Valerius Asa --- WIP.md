@@ -49,9 +49,9 @@ folgt
  Stammbaum]]
  ---
  ---  
-  [[Cyrus Asa|Cyrus Asa]] (Vater) • [[Helena Asa|Helena Asa]] (Mutter)
+  [[../../Cyrus Asa|Cyrus Asa]] (Vater) • [[../../Helena Asa|Helena Asa]] (Mutter)
  ---
-  [[Brianna "Brie" Asa|Brianna "Brie" Asa]] (Schwester) • [[Elias Asa|Elias Asa]]  (Bruder) • [[Emily Asa|Emily Asa]] (Schwester) • [[Grace Asa|Grace Asa]] (Schwester) • [[Jacob  Asa|Jacob  Asa]](Bruder) • [[Jonah Asa|Jonah Asa]]  (Bruder) • [[Lyra Asa|Lyra Asa]] (Schwester) • [[Maya Asa|Maya Asa]] (Schwester) • [[Nesrin "Nessie" Asa|Nesrin "Nessie" Asa]] (Schwester) • [[Oliver Asa|Oliver Asa]]  (Bruder) • [[Rachel Asa|Rachel Asa]] (Schwester) • [[Safiyyah "Fiya" Asa|Safiyyah "Fiya" Asa]] (Schwester) • [[Yonatan "Yoni" Asa|Yonatan "Yoni" Asa]] (Bruder)
+  [[Brianna "Brie" Asa|Brianna "Brie" Asa]] (Schwester) • [[../../Elias Asa|Elias Asa]]  (Bruder) • [[../../Emily Asa|Emily Asa]] (Schwester) • [[../../Grace Asa|Grace Asa]] (Schwester) • [[Jacob  Asa|Jacob  Asa]](Bruder) • [[../../Jonah Asa|Jonah Asa]]  (Bruder) • [[../../Lyra Asa|Lyra Asa]] (Schwester) • [[../../Maya Asa|Maya Asa]] (Schwester) • [[Nesrin "Nessie" Asa|Nesrin "Nessie" Asa]] (Schwester) • [[../../Oliver Asa|Oliver Asa]]  (Bruder) • [[../../Rachel Asa|Rachel Asa]] (Schwester) • [[Safiyyah "Fiya" Asa|Safiyyah "Fiya" Asa]] (Schwester) • [[Yonatan "Yoni" Asa|Yonatan "Yoni" Asa]] (Bruder)
  ---
  [[Grace Kind 1 Asa|Grace Kind 1 Asa]] (Nichte/Neffe/Nibling) • [[Grace Kind 2 Asa|Grace Kind 2 Asa]] (Nichte/Neffe/Nibling) 
  ---
@@ -62,14 +62,14 @@ keine
 ### Romantische Interessen
 kennt keine Liebe
 ### Freunde
-[[Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]] • vielleicht [[./Morien Muto|Morien Muto]] und [[./Sebastian Gareth|Sebastian Gareth]]
+[[../../Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]] • vielleicht [[../../Morien Muto --- WIP|Morien Muto --- WIP]] und [[./Sebastian Gareth|Sebastian Gareth]]
 ### Bekannte und Kollegen
-[[Dr Alissa Neuhauss|Dr Alissa Neuhauss]] • [[Katrina Klava|Katrina Klava]] • [[Dr Sophia Pereira|Dr Sophia Pereira]] • [[Dr. Tariq Al-Masri|Dr. Tariq Al-Masri]] • [[Tyrel Muto|Tyrel Muto]]
+[[Dr Alissa Neuhauss|Dr Alissa Neuhauss]] • [[../../Katrina Klava --- WIP|Katrina Klava --- WIP]] • [[Dr Sophia Pereira|Dr Sophia Pereira]] • [[Dr. Tariq Al-Masri|Dr. Tariq Al-Masri]] • [[../../Tyrel Muto|Tyrel Muto]]
 ### Feinde 
-  Die Leute, die das Urteil über Benny fällten • Die Einbrecher, wegen denen Benny evaluiert wurde • [[./Jacob Asa|Jacob Asa]]? • [[Katrina Klava|Katrina Klava]](weil sie scary AF ist)
+  Die Leute, die das Urteil über Benny fällten • Die Einbrecher, wegen denen Benny evaluiert wurde • [[../../Jacob Asa --- WIP|Jacob Asa --- WIP]]? • [[../../Katrina Klava --- WIP|Katrina Klava --- WIP]](weil sie scary AF ist)
  ---
 ## Beziehungen
-- **[[Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]]](Bester Freund • Einzige, der mich versteht)** 
+- **[[../../Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]]](Bester Freund • Einzige, der mich versteht)** 
 Benny hat Valerius Leben ein unglaubliches Auf und einen ganz neuen Zweck gegeben. Nicht nur war er anfangs abhängig von Valerius, er ist auch direkt in seiner Abteilung entstanden, sodass Valerius von "Geburt" an bei ihm war. Je älter Benny wurde, desto enger wurde die Bindung des ungleichen Paares, bis Valerius Benny sogar über seine Familie und sein eigenes Lebens stellte.
  
 - mehr folgen
@@ -83,7 +83,7 @@ Benny hat Valerius Leben ein unglaubliches Auf und einen ganz neuen Zweck gegebe
 - hat die Genmischungsverhältnisse und RNA Datensätze für die Säugetiere in Projekt IKM perfektioniert
 - jüngster Doppeldoktor seit über 100 Jahren
 - hat 3 erfolgreiche Doktorarbeiten geschrieben, bevor er 23 wurde 
-- hat geholfen, [[Gene X|Gene X]] zu entwickeln und ist immernoch an Charakterdesign/Konzepten beteiligt
+- hat geholfen, [[../../Gene X|Gene X]] zu entwickeln und ist immernoch an Charakterdesign/Konzepten beteiligt
 - **Kuriose Fakten:**
 - trägt immer eine Umhängetasche mit sich herum
 - Titel der Doktorarbeiten: 

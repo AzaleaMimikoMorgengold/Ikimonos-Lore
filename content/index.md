@@ -35,8 +35,8 @@ Bitte beachtet, dass wir, obwohl wir oft komödiantische Elemente und gelegentli
  
  **LETZTES UPDATE**
  ==03.05.2024==
-[[Jonah Asa|Jonah Asa]]
-[[./Personae Dramatica/Morien Muto|Morien Muto]]
+[[../Jonah Asa|Jonah Asa]]
+[[../Morien Muto --- WIP|Morien Muto --- WIP]]
 [[./Personae Dramatica/Sebastian Gareth|Sebastian Gareth]]
 [[./Personae Dramatica/Valerius Asa --- WIP|Valerius Asa --- WIP]]
  
