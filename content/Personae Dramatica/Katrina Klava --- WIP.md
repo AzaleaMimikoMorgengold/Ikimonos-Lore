@@ -56,7 +56,8 @@ share: true
 ### (Ex-)Partner
 [[Name|Name]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
 ### Romantische Interessen
-[[../../Morien Muto --- WIP|Morien Muto --- WIP]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
+[[./Morien Muto --- WIP|Morien Muto --- WIP]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
+
 ### Freunde
 [[Name|Name]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
 ### Bekannte und Kollegen
