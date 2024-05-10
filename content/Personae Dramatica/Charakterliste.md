@@ -1,7 +1,8 @@
 ---
 share: true
-aliases: 
-tags: 
+aliases:
+  - characterlist
+tags: character, list, charakter, liste
 ---
 
 |                                 |                       |                                           |
@@ -10,7 +11,7 @@ tags:
 | [[../../Morien Muto --- WIP\|Morien]] |        Cookie         |     [[./Sebastian Gareth\|Sebastian]]      |
 |                                 |                       |                                           |
 |        ![[../z_Assets/Kat.png\|220]]        | ![[../z_Assets/draugh.png\|220]]  |            ![[../z_Assets/jacob.png\|220]]            |
-|   [[Katrina Klava\|Katrina]]    |     Vinur Draugs      |       [[../../Jacob Asa --- WIP\|Jacob]]        |
+|   [[Katrina Klava\|Katrina]]    |     Vinur Draugs      |       [[./Jacob Asa --- WIP\|Jacob]]        |
 |                                 |                       |                                           |
 |       ![[../z_Assets/marie.png\|220]]       |  ![[../z_Assets/tyrel.png\|220]]  |           ![[../z_Assets/valval.png\|220]]            |
 |           Marie Muto            |      Tyrel Muto       |    [[./Valerius Asa --- WIP\|Valerius]]     |
