@@ -56,7 +56,7 @@ share: true
 ### (Ex-)Partner
 [[Name|Name]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
 ### Romantische Interessen
-[[./Morien Muto|Morien Muto]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
+[[./Morien Muto --- WIP|Morien Muto --- WIP]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
 ### Freunde
 [[Name|Name]] • [[MehrName|MehrName]] • [[Jemand|Jemand]]
 ### Bekannte und Kollegen
@@ -90,5 +90,24 @@ Beschreibung aus Sicht des Charakters/Dynamik der Charaktere zueinander
 - Twitter:** 🐦 Katrina K.**
 
 
+> [!Spyder] Spyder DeepDive
+> -Model und Schauspielerin an einer Agentur (Name der Agentur) 
+> -Abgeschlossenes Studium Bachelor Darstellende Kunst 
+> -Verlobt mit Morien Muto (Hochzeit schon lange überfällig) 
+> -Reiche Familie (vermögensschätzung) 
+> -Familienmitglieder..... 
+> -Socials Media accounts 
+> -Adresse des Neben-Hauses der Familie wo sie lebt 
+> -Telefonnummer 
+> -IQ: 166 
+> -Geboren 09.11.2126 
+> -Geboren und Aufgewachsen in Deutschland, im kleinen Städtchen wo das Anwesen ihrer Familie Steht, Studierte nach dem Abitur gleich Darstellende Kunst in einer Stadt in der Nähe und fing nach abgeschlossenem Studium gleich an zu arbeiten, sie hat in den Jahren danach in theaterstücken, tanzstücken, musicals, und auch filmen mitgespielt und auch ein wenig gemodelt. (Liste der Theaterstücke usw.) 
+> -Martial arts Training im Dojo der Familie Muto seit sie vier ist. 
+> -Hatte einen gebrochenen Arm als sie 12 war und zur gleichen Zeit hatten Morien und Katrina eine Weile weniger Kontakt. 
+> -Mitgemachte Martial Arts Turniere, oft erster Platz 
+> -Hobbies: Shoppen, Filme und Theaterstücke gucken, Videospiele spielen ab und an, Martial Arts, Outdoor Aktivitäten, Tanzen, Musik hören. 
+> -Besuchte Schulen und Schulabschluss. 
+> -Abiturnotespiegel: 1 (Herausragende Noten: 1+ Literatur 1+ Sport 1 Englisch) 
+> -Besondere Genetik: Ist ein Designerbaby (Infos dazu)
 
 
