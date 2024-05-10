@@ -58,15 +58,15 @@ Stammbaum]]
  Angela Weber]] (Oma Mütterlicherseits) • Marie Muto]] (Mutter) • Ren Muto]] (Vater) • Natsuki Anna Muto]] (Oma Väterlicherseits) Jin Muto]] (Opa Väterlicherseits)  • Luke Weber]] (Onkel Mütterlicherseits) • Kenzo Muto]] (Onkel Väterlicherseits) • Himari Meyer]] (Tante Väterlicherseits) • Martin Meyer]] (Mann der Tante) • Annika Mai]] (Großtante/Schwester der Oma mütterlicherseits) 
 ---
 Nanami Muto]] (Schwester)
- [[./content/Personae Dramatica/Katrina Klava --- WIP|Katrina Klava --- WIP]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
+ [[./Katrina Klava --- WIP|Katrina Klava --- WIP]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
 ##### Verstorben:
 Tom Koto Weber]] (Opa Mütterlicherseits) 
 ### (Ex-)Partner
 keine
 ### Romantische Interessen
-[[./content/Personae Dramatica/Katrina Klava --- WIP|Katrina Klava --- WIP]]
+[[./Katrina Klava --- WIP|Katrina Klava --- WIP]]
 ### Freunde
-[[./content/Personae Dramatica/Katrina Klava --- WIP|Katrina Klava --- WIP]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
+[[./Katrina Klava --- WIP|Katrina Klava --- WIP]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
 ### Frenemies/Rivals
 keine?
 ### Bekannte und Kollegen
