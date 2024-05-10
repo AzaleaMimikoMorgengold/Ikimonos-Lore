@@ -86,7 +86,7 @@ Interessen: Ht eine
 ##### Privatpersonen
 [[../../Helena Asa|Helena Asa]]
 ##### Opfer
-[[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] • [[../../Jacob Asa --- WIP|Jacob Asa --- WIP]] • [[../../Katrina Klava --- WIP|Katrina Klava --- WIP]] • [[../../Morien Muto --- WIP|Morien Muto --- WIP]] • [[../../Natasha Grigorev|Natasha Grigorev]] • weitere unbekannte
+[[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] • [[./Jacob Asa --- WIP|Jacob Asa --- WIP]] • [[../../Katrina Klava --- WIP|Katrina Klava --- WIP]] • [[../../Morien Muto --- WIP|Morien Muto --- WIP]] • [[../../Natasha Grigorev|Natasha Grigorev]] • weitere unbekannte
 
 ---
 ## Beziehungen
@@ -94,7 +94,7 @@ Interessen: Ht eine
 ASB ist so cool, so stark, und macht die besten Pralinen der Welt! Ich wünschte ich wäre mehr wie er...
 - **[[Ash.Ink|Ash.Ink]] (Bully)**
 Ich weiß nicht, woher Ash.Ink kommt, ich finde keine Informationen über ihn, ich komme nicht durch, aber er scheint plötzlich überall zu sein, wo ich bin - selbst das andere Ich! Er macht mir Angst...
-- **[[../../Jacob Asa --- WIP|Jacob Asa --- WIP]] (Target:DeepDive)**
+- **[[./Jacob Asa --- WIP|Jacob Asa --- WIP]] (Target:DeepDive)**
 Eigentlich nur jemand, den ich bis aufs Mark durchleuchten sollte, aber ehrlich gesagt habe ich jetzt Angst davor, in seine Kreise zu kommen.
 - **[[../../Katrina Klava --- WIP|Katrina Klava --- WIP]]  (Target:DeepDive)**
 Eigentlich nur jemand, den ich bis aufs Mark durchleuchten sollte, und während ich sie anfangs noch bewundert habe, hat sich bald schon Eifersucht und Neid in mir breit gemacht, gefolgt von milder Sorge, dass sie meinen Weg kreuzt.
