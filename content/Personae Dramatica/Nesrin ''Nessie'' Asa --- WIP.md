@@ -69,7 +69,7 @@ zu viele, um sie hier aufzuführen  •  Manager1 • Manager3 • Manager3 • 
 - **[[Benjiro|Benjiro]] (enger Freund)** 
 Anfangs hielt Nesrin Ben nur für einen Hund, aber als er älter wurde, gewann sie ihn als engen Freund lieb und verbrachte viel Zeit mit ihm und dadurch auch Valerius. Nach Valerius leidet sie sicherlich am meisten unter seinem Verschwinden.
  
-- **[[../../Jacob Asa --- WIP|Jacob Asa --- WIP]] (Großer Bruder)**
+- **[[./Jacob Asa --- WIP|Jacob Asa --- WIP]] (Großer Bruder)**
 So ganz wird Nesrin nicht aus Jacob schlau, einerseits gehört er zur Familie, wirkt freundlich und invested, andererseits gruselt er sie manchmal ganz schön, und irgendwie erinnert er sie dann an ihre Mutter, wenn diese sich unbeobachtet fühlt... Einfach zum Schaudern!
 
 - **[[./Valerius Asa --- WIP|Valerius Asa --- WIP]] (Großer Bruder)**
