@@ -58,15 +58,15 @@ Stammbaum]]
  Angela Weber]] (Oma Mütterlicherseits) • Marie Muto]] (Mutter) • Ren Muto]] (Vater) • Natsuki Anna Muto]] (Oma Väterlicherseits) Jin Muto]] (Opa Väterlicherseits)  • Luke Weber]] (Onkel Mütterlicherseits) • Kenzo Muto]] (Onkel Väterlicherseits) • Himari Meyer]] (Tante Väterlicherseits) • Martin Meyer]] (Mann der Tante) • Annika Mai]] (Großtante/Schwester der Oma mütterlicherseits) 
 ---
 Nanami Muto]] (Schwester)
- [[Katrina Klava|Katrina Klava]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
+ [[./Katrina Klava --- WIP|Katrina Klava --- WIP]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
 ##### Verstorben:
 Tom Koto Weber]] (Opa Mütterlicherseits) 
 ### (Ex-)Partner
 keine
 ### Romantische Interessen
-[[Katrina Klava|Katrina Klava]]
+[[./Katrina Klava --- WIP|Katrina Klava --- WIP]]
 ### Freunde
-[[Katrina Klava|Katrina Klava]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
+[[./Katrina Klava --- WIP|Katrina Klava --- WIP]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
 ### Frenemies/Rivals
 keine?
 ### Bekannte und Kollegen
@@ -95,4 +95,27 @@ vermutlich einige
 - Twitter:** 🐦 Mr.MM**
 
 
-(Information provided by Drako Akuma)
+
+
+> [!Spyder] DeepDive
+> -Informatik student Bachelor (Hochschule einfügen) 
+> -Arbeit als Barkeeper 
+> -verlobt mit Katrina Klava (Hochzeit schon lange überfällig) 
+> -Reiche Familie (vermögensschätzung) 
+> -Familienmitglieder..... 
+> -Socials Media accounts (private accounts) 
+> -Adresse der eigenen Wohnung 
+> -IQ: 133 
+> -Geboren 09.12.2126 
+> -Geboren und aufgewachsen in Deutschland in dem kleinen Städtchen, wo das Anwesen seiner Familie steht, nach abgeschlossenem Abitur ging er nach Neo-Berlin um zu arbeiten (Barkeeper) und fing später ein Informatik Studium an. 
+> -Martial arts Training im Dojo der Familie seit er gehen kann. (inklusive Waffentraining) 
+> -wo und wann er seine Tattoos bekommen hat. -Wie er seine Narbe bekommen hat -hat erst Einmal gegen Katrina im Sparring gewonnen vor rund 15 Jahren. 
+> -Mitgemachte Martial Arts Turniere, oft zweiter Platz. 
+> -selbst programmierte kleine Videospiele 
+> -Mit gemachtes Shogie Turnier und der letztens besuchte Schach-Schnuppertag. 
+> -Hobbies: Basteln, Waffen sammeln, Martial Arts, Computer Spielen, Lesen 
+> -Seit 15 Jahren nicht mehr auf High Society Partys gewesen. 
+> -Besuchte Schulen und Schulabschluss. 
+> -Abiturnotespiegel: 2+ (Herausragende Noten: 1+ Mathe 1 Physik 1- Chemie) -wurde in der 9. Klasse einmal für einige Monate von der Schule suspendiert, weil er einen Mitschüler krankenhausreif geprügelt und 6 weitere stark verletzt hat.
+
+(Information provided by Drako Akuma and Spyder)
