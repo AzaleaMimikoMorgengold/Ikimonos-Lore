@@ -4,7 +4,7 @@ alias:
 tags: 
 share: true
 ---
-
+![[../z_Assets/bwb.png|bwb.png]]
 ## Basisinformation
 - **Verbrechername:** Broken Wing Butterfly
 - **Spitzname:** BWB, Small Fry, Glassbee, Schmetter
