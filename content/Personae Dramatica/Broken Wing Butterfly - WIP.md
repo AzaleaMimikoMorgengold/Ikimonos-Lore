@@ -28,8 +28,7 @@ share: true
 Broken Wing Butterfly ist von dünner Statur und zierlicher Gestalt, wenn man den Hacker mal in Person sehen sollte, ist sofort klar, woher sein oder ihr Handle kommt. Schwarzes, zerwuscheltes Haar bis zum Nacken, mit verblassenden gefärbten Enden, die quecksilbergrauen Augen und tiefen Augenringe meist von den Haaren verdeckt, und die korrekte Kellerblässe, die man von einem PC-Junkie erwartet, der nur vor Bildschirmen hockt und das Rausgehen vermeidet. So manch einer scherzt, dass PC und Homeoffice-Arbeiter den ganzen Tag nackt sein können, doch für diesen chronisch Virtuell Spacer stimmt das nicht; BWB benötigt Kleidung für ein Sicherheitsgefühl, je größer und 'heimliger' desto besser, oft wählt der Hacker auch Dinge im weiblichen Stil, locker und zu groß, was seine zierliche Statur betont und hübschst sich mit Kawaii-Accessoires und Dekora-Kei Elementen auf; trägt oft kindliche Haarspangen und Schmuck. Manch einer mag behaupten, dass man BWB so auch ködern kann, Dinge für lau zu machen...
 
  **Besondere Merkmale:** 
-Man ist sich nie ganz sicher, ob Broken Wing Butterfly nun ein Er oder eine Sie ist, das Gesicht ist androgyn, die Kleidung übergroß-bunt, der Körperbau zweideutig. Seine Augen sind ebenfalls auffällig, aber nicht so auffällig wie sein Tattoo eines Schmetterlings mit fast geschlossenen Flügeln auf dem linken Schlüsselbein und die zahlreichen Narben an Armen und Knien.
-
+  Man ist sich nie ganz sicher, ob Broken Wing Butterfly nun ein Er oder eine Sie ist, das Gesicht ist androgyn, die Kleidung übergroß-bunt, der Körperbau zweideutig. Seine Augen sind ebenfalls auffällig, aber nicht so auffällig wie sein Tattoo eines Schmetterlings mit fast geschlossenen Flügeln auf dem linken Schlüsselbein und die zahlreichen Narben an Armen und Knien.
  ---
 ## Details
 **Persönlichkeit und Verhalten:** 
@@ -70,9 +69,9 @@ Interessen: Ht eine
  Teil von [[SpyderNetwork|SpyderNetwork]]
 ---
  ---
- [[../../Spyder|Spyder]] (Chef, Mentor) • [[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] (Vorbild)
+ [[../../Spyder - Very Much Work in Progress|Spyder - Very Much Work in Progress]] (Chef, Mentor) • [[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] (Vorbild)
  ---
- [[../../Spyder|Spyder]] (Partner in Crime) • [[../../Natasha Grigorev|Natasha Grigorev]] (Kollege)
+ [[../../Spyder - Very Much Work in Progress|Spyder - Very Much Work in Progress]] (Partner in Crime) • [[../../Natasha Grigorev|Natasha Grigorev]] (Kollege)
  ---
   -
 ---
@@ -105,7 +104,7 @@ Eigentlich nur jemand, den ich bis aufs Mark durchleuchten sollte, und dann soll
 Vor Natasha hab ich hart Respekt, die Frau ist härter als Stahl und weicher als der fluffigste Fellstoff. So ganz weiß ich nie, woran ich bei ihr bin, aber ich schätze ihren hohen Gerechtigkeitssinn. Und dass sie mich nicht ausgeliefert hat. Ich schulde ihr dafür noch was...
 - **[[Security-Asa|Security-Asa]] (ultimative Herausforderung)**
 Hooooly Moly, es war leichter, sich durchs FBI zu wühlen als an irgendwas heranzukommen, was diese Firma verbirgt. Hoffentlich muss ich nie wieder einen Asa durchleuchten.... oder zumindest nicht bei im Anwesen. Holy.
-- **[[../../Spyder|Spyder]] (Mentor)**
+- **[[../../Spyder - Very Much Work in Progress|Spyder - Very Much Work in Progress]] (Mentor)**
 Ja, eigentlich ist Spyder 'nur' mein Chef, aber er... sie?... lehrt mich alles, um meine Fähigkeiten zu perfektionieren und Spyder ist einfach beeindruckend!!
 - **[[SpyderNetwork|SpyderNetwork]] (fast ein Heim)**
 Ich suche noch immer nach meinem Platz im Leben, aber das SPN hat mir zumindest einen Anker gegeben, der mich im Strudel dieser wilden Zeiten sicher hält und die Richtung weist.---
@@ -126,5 +125,5 @@ Ich suche noch immer nach meinem Platz im Leben, aber das SPN hat mir zumindest 
 
 > [!Spyder] 
 > Pratchett:
-> Der Schmetterling er Stürme. Seine Flügel sind nur wenig mehr ausgefranst als die Schwingen eines gewöhnlichen Perlmuttfalters - doch wenn man die fraktale Natur des Universums berücksichtigt... Danach sind die Flügelränder unendlich - auf die gleiche Weise ist eine zerklüftete Küste unendlich lang, wenn man sie auf mikroskopischem Niveau misst. Wenn die Flügelränder nicht wirklich unendlich sind, so kommen sie der Unendlichkeit doch so nahe, wie man diese an einem klaren Tag erkenne kann. Wenn die Ränder unendlich lang sind, so müssen die Flügel unendlich groß sein. Sie scheinen genau die richtige Größe von Schmetterlingsflügeln zu haben, aber nur deshalb, weil die meisten Leute gesunden Menschenverstand der Logik vorziehen.
+> Der Schmetterling der Stürme. Seine Flügel sind nur wenig mehr ausgefranst als die Schwingen eines gewöhnlichen Perlmuttfalters - doch wenn man die fraktale Natur des Universums berücksichtigt... Danach sind die Flügelränder unendlich - auf die gleiche Weise ist eine zerklüftete Küste unendlich lang, wenn man sie auf mikroskopischem Niveau misst. Wenn die Flügelränder nicht wirklich unendlich sind, so kommen sie der Unendlichkeit doch so nahe, wie man diese an einem klaren Tag erkenne kann. Wenn die Ränder unendlich lang sind, so müssen die Flügel unendlich groß sein. Sie scheinen genau die richtige Größe von Schmetterlingsflügeln zu haben, aber nur deshalb, weil die meisten Leute gesunden Menschenverstand der Logik vorziehen.
 
