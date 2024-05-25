@@ -55,18 +55,17 @@ tag:
 Stammbaum]]
  ---
  ---
- Angela Weber]] (Oma Mütterlicherseits) • Marie Muto]] (Mutter) • Ren Muto]] (Vater) • Natsuki Anna Muto]] (Oma Väterlicherseits) Jin Muto]] (Opa Väterlicherseits)  • Luke Weber]] (Onkel Mütterlicherseits) • Kenzo Muto]] (Onkel Väterlicherseits) • Himari Meyer]] (Tante Väterlicherseits) • Martin Meyer]] (Mann der Tante) • Annika Mai]] (Großtante/Schwester der Oma mütterlicherseits) 
+ [[../../Angela Weber|Angela Weber]] (Oma Mütterlicherseits) • [[Marie Muto|Marie Muto]] (Mutter) • [[../../Ren Muto|Ren Muto]] (Vater) • Natsuki [[Anna Muto|Anna Muto]] (Oma Väterlicherseits) • [[../../Jin Muto|Jin Muto]] (Opa Väterlicherseits)  • [[../../Luke Weber|Luke Weber]] (Onkel Mütterlicherseits) • [[../../Kenzo Muto|Kenzo Muto]] (Onkel Väterlicherseits) • [[../../Himari Meyer|Himari Meyer]] (Tante Väterlicherseits) • [[../../Martin Meyer|Martin Meyer]] (Mann der Tante) • [[../../Annika Mai|Annika Mai]] (Großtante/Schwester der Oma mütterlicherseits) 
 ---
-Nanami Muto]] (Schwester)
- [[./Katrina Klava --- WIP|Katrina Klava --- WIP]] (Verlobte)  • Tani und Tim Mayer]] (Cousins) • Tyrel Muto]] (Adoptiv Cousin)
+[[./Nanami Muto|Nanami Muto]] (Schwester) • [[./Katrina Klava --- WIP|Katrina Klava]] (Verlobte) • Tani und Tim Mayer]] (Cousins) • [[../../Tyrel Muto|Tyrel Muto]] (Adoptiv Cousin)
 ##### Verstorben:
 Tom Koto Weber]] (Opa Mütterlicherseits) 
 ### (Ex-)Partner
 keine
 ### Romantische Interessen
-[[./Katrina Klava --- WIP|Katrina Klava --- WIP]]
+[[./Katrina Klava --- WIP|Katrina Klava]]
 ### Freunde
-[[./Katrina Klava --- WIP|Katrina Klava --- WIP]] • Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
+[[./Katrina Klava --- WIP|Katrina Klava]] • [[../../Tyrel Muto|Tyrel Muto]] • [[Sebastian Gereth|Sebastian Gereth]]
 ### Frenemies/Rivals
 keine?
 ### Bekannte und Kollegen
@@ -83,7 +82,7 @@ vermutlich einige
 ## Trivia
 - **Kuriose Fakten:** Der Name Morien steht in gewisser Verbindung zu dem Erfinder des Charakters Drako Akuma
 - **Findet man nie ohne:** Etwas zur Selbstverteidigung
-- **Lebensmotto:** Sei stets Misstrauisch und vertrau nur wenigen
+- **Lebensmotto:** Sei stets misstrauisch und vertrau nur wenigen
 ## Zitate: 
 - "Katrina lass mich wieder runter"
 - **Lieblingszitat:** "Schlaf, wer braucht schon Schlaf ?"
@@ -99,7 +98,7 @@ vermutlich einige
 
 > [!Spyder] DeepDive
 > -Informatik student Bachelor (Hochschule einfügen) 
-> -Arbeit als Barkeeper 
+> -Arbeit als Barkeeper ( [[../../The Midnight Mirage|The Midnight Mirage]] )
 > -verlobt mit Katrina Klava (Hochzeit schon lange überfällig) 
 > -Reiche Familie (vermögensschätzung) 
 > -Familienmitglieder..... 
