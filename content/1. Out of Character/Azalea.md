@@ -14,12 +14,12 @@ share: true
 ---
 - **Interessen & Hobbies:** Katzen, Rollenspiele, Fantasy, Schreiben, Puzzle, Rätsel, Brettspiele, Gesellschaftsspiele, Sprache, Random Funfacts und Wissen, Vtubing, Streaming, True Crime, Basteln, Cosplay, Nähen
 - **Vorlieben:** Supporting Freunde, Tierschutz, Naturschutz, Künstler und Small Businesses, Perfekte Auskommen, Harmonie
-- **Abneigungen:** So gut wie jedes Essen, was normale Menschen essen. Thanks Childhood Trauma (┬┬﹏┬┬); Grenzüberschreitung; Bullies; Leute die über die Bedeutung von Worten lügen/scherzen; keine klare Absage bekommen; Shitstorms; 
+- **Abneigungen:** So gut wie jedes Essen, was normale Menschen essen. Thanks Childhood Trauma (┬┬﹏┬┬); Grenzüberschreitung; Bullies; Leute die über die Bedeutung von Worten lügen/scherzen; keine klare Absage bekommen; Shitstorms
 ---
 - **Spielertypus PnP:** Socializer; Schauspieler/Actor; Storyteller; Explorer
 - **Settings & Regelwerke nah an meinem Herzen:** Exalted 3E, Shadowrun 5
 - **Probleme als Spieler:** Konflikte und Intrigen zwischen Spielern / Spielercharakteren wenn nicht klar abgesprochen, Von mir genannte Grenzen ignorieren, Bitten übergehen (Diese sind meistens mit meiner Psyche verbunden - bitte hört einfach darauf, wenn ich um Dinge bitte.)
-- **Problematischer Spieler:** Way too much in. Ich kann meinen Charakter nicht ändern, er wird einfach lebendig in meinem Kopf und handelt selbstständig. Japp, das bedeutet "ich mach das rückgängig" ist nicht wirklich möglich. Japp, das heißt er wirkt wie ein Schlau. Japp, das bedeutet unflexibel as fuck.
+- **Problematischer Spieler:** Way too much in. Ich kann meinen Charakter nicht ändern, er wird einfach lebendig in meinem Kopf und handelt selbstständig. Japp, das bedeutet "ich mach das rückgängig" ist nicht wirklich möglich. Japp, das heißt er wirkt wie ein Schlauch. Japp, das bedeutet unflexibel as fuck.
   
 ##### Mental Health
 Ich sage in keiner Weise, dass meine Diagnosen Entschuldigungen oder Rechtfertigungen sind für Verhalten, dass ich zeige. Sie sind allerhöchstens Erklärungen, warum Dinge bei mir anders sind als bei dem neurotypischen Menschen.
