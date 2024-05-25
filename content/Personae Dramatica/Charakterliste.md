@@ -8,7 +8,7 @@ tags: character, list, charakter, liste
 |                                 |                       |                                           |
 |:-------------------------------:|:---------------------:|:-----------------------------------------:|
 |      ![[../z_Assets/Morien.png\|220]]       | ![[../z_Assets/cookie.png\|220]]  |          ![[../z_Assets/Sebastian.png\|220]]          |
-| [[../../Morien Muto --- WIP\|Morien]] |        Cookie         |     [[./Sebastian Gareth\|Sebastian]]      |
+| [[./Morien Muto --- WIP\|Morien]] |        Cookie         |     [[./Sebastian Gareth\|Sebastian]]      |
 |                                 |                       |                                           |
 |        ![[../z_Assets/Kat.png\|220]]        | ![[../z_Assets/draugh.png\|220]]  |            ![[../z_Assets/jacob.png\|220]]            |
 |   [[Katrina Klava\|Katrina]]    |     Vinur Draugs      |       [[./Jacob Asa --- WIP\|Jacob]]        |

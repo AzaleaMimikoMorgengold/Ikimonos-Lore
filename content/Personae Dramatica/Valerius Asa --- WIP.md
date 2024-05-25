@@ -62,11 +62,11 @@ keine
 ### Romantische Interessen
 kennt keine Liebe
 ### Freunde
-[[../../Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]] • vielleicht [[../../Morien Muto --- WIP|Morien Muto --- WIP]] und [[./Sebastian Gareth|Sebastian Gareth]]
+[[../../Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]] • vielleicht [[./Morien Muto --- WIP|Morien Muto --- WIP]] und [[./Sebastian Gareth|Sebastian Gareth]]
 ### Bekannte und Kollegen
-[[Dr Alissa Neuhauss|Dr Alissa Neuhauss]] • [[../../Katrina Klava --- WIP|Katrina Klava --- WIP]] • [[Dr Sophia Pereira|Dr Sophia Pereira]] • [[Dr. Tariq Al-Masri|Dr. Tariq Al-Masri]] • [[../../Tyrel Muto|Tyrel Muto]]
+[[Dr Alissa Neuhauss|Dr Alissa Neuhauss]] • [[./Katrina Klava --- WIP|Katrina Klava --- WIP]] • [[Dr Sophia Pereira|Dr Sophia Pereira]] • [[Dr. Tariq Al-Masri|Dr. Tariq Al-Masri]] • [[../../Tyrel Muto|Tyrel Muto]]
 ### Feinde 
-  Die Leute, die das Urteil über Benny fällten • Die Einbrecher, wegen denen Benny evaluiert wurde • [[./Jacob Asa --- WIP|Jacob Asa --- WIP]]? • [[../../Katrina Klava --- WIP|Katrina Klava --- WIP]](weil sie scary AF ist)
+  Die Leute, die das Urteil über Benny fällten • Die Einbrecher, wegen denen Benny evaluiert wurde • [[./Jacob Asa --- WIP|Jacob Asa --- WIP]]? • [[./Katrina Klava --- WIP|Katrina Klava --- WIP]](weil sie scary AF ist)
  ---
 ## Beziehungen
 - **[[../../Benjiro ''Benny'' Asa|Benjiro ''Benny'' Asa]]](Bester Freund • Einzige, der mich versteht)** 
