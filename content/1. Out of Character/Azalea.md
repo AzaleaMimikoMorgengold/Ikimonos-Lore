@@ -44,8 +44,8 @@ War es Realitätsflucht? Das Nachmachen meiner Umgebung? Meine einzige Möglichk
 Was auch immer es war, **2003** fand ich einen meiner großen Erlöser: Animexx e.V.
 Es gab eine eigene Rollenspielsektion dort, mit so vielen deutschsprachigen Rollenspielern. Endlich! Denn bis dahin war eigentlich fast alles, was ich fand, nur Englisch gewesen, und ich war nicht in der Lage, mehr English als "Shut the fuck up", "Fuck You" und "I love you" zu verstehen.
 
-14 Jahre war der RPG- bzw Rollenspielbereich auf Animexx mein absolutes Lieblingshobby. Ich Hunderte Rollenspiele gespielt, und bis heute ist es amüsant, manche der Postings von 2003 zu lesen, den Cringe zu fühlen und Mitleid mit meinen armen Mitspielern von damals zu haben, die sich mit mir abgaben. Die Sprünge in Rechtschreibung, Grammatik, Charaktertiefe und Storytelling, die ich gemacht habe, sind gigantisch, weswegen es umso amüsanter ist, die Mary und Gary Stues von damals zu sehen, oder die Phasen von 'welches Aussehen gerade in meinem Kopf 'in' war'. 
-Die Phase der rothaarigen, der blonden, der schwarzhaarigen, der braunhaarigen Charaktere; die Phase wo ich nur Elfen gespielt habe, nur Gnome, nur Dämonen; Hyperfixierungen auf diversen ganz sicher nicht Altersangemessenen Themen, die ich in den Charakteren verarbeitete; und schließlich, meine eigenen sozialen Probleme und neurodivergenten Gedanken, die ich in sie hineinfließen ließ, um zu lernen und zu verstehen, wie normale Menschen mit diesen Situationen umgingen, wie man die Sachen und Probleme anders angehen und verstehen konnte.
+14 Jahre war der RPG- bzw Rollenspielbereich auf Animexx mein absolutes Lieblingshobby. Ich habe Hunderte Rollenspiele gespielt, und bis heute ist es amüsant, manche der Postings von 2003 zu lesen, den Cringe zu fühlen und Mitleid mit meinen armen Mitspielern von damals zu haben, die sich mit mir abgaben. Die Sprünge in Rechtschreibung, Grammatik, Charaktertiefe und Storytelling, die ich gemacht habe, sind gigantisch, weswegen es umso amüsanter ist, die Mary und Gary Stues von damals zu sehen, oder die Phasen von 'welches Aussehen gerade in meinem Kopf 'in' war'. 
+Die Phase der rothaarigen, der blonden, der schwarzhaarigen, der braunhaarigen Charaktere; die Phase wo ich nur Elfen gespielt habe, nur Gnome, nur Dämonen; Hyperfixierungen auf diversen ganz sicher nicht altersangemessenen Themen, die ich in den Charakteren verarbeitete; und schließlich, meine eigenen sozialen Probleme und neurodivergenten Gedanken, die ich in sie hineinfließen ließ, um zu lernen und zu verstehen, wie normale Menschen mit diesen Situationen umgingen, wie man die Sachen und Probleme anders angehen und verstehen konnte.
 
 Mündliches freies Rollenspiel war meine liebste Freizeitbeschäftigung, und als ein solches habe ich 2009 **Ikimonos** erschaffen. Eine halbe Seite Notizen, 8 Stichpunkte, 10 Zeilen. Mehr nicht. Alles andere war immer in meinem Kopf.
 
@@ -53,12 +53,12 @@ Und jetzt kommt es nicht nur zu meinen Freunden, jetzt könnt ihr alle es erlebe
 
 ### Pen and Paper
 Entgegen zu freien Rollenspiel, war meine Suche nach PnP alles andere als Erfolgs gekrönt.
-Das erste Mal, wo ich endlich eine Runde fand war 2012 oder 2013, online und auf English, eine Sprache die ich, dank einem altsprachlichen Gymnasium, noch immer kaum sprach. Ab 2013 bis 2018 rutschte ich durch verschiedene Gruppen und Systeme, denn die meisten Gruppen, die mich aufnahmen, waren mehr daran interessiert neue Systeme auszutesten und ständig neue Charaktere zu bauen als Geschichten von Charakteren "zu ende zu Spielen", wie ich es mir aufgrund der freien Rollenspiele zu Wünschen begann.
+Das erste Mal, als ich endlich eine Runde fand, war 2012 oder 2013, online und auf English, eine Sprache, die ich, dank einem altsprachlichen Gymnasium, noch immer kaum spreche. Ab 2013 bis 2018 rutschte ich durch verschiedene Gruppen und Systeme, denn die meisten Gruppen, die mich aufnahmen, waren mehr daran interessiert neue Systeme auszutesten und ständig neue Charaktere zu bauen als Geschichten von Charakteren "zu Ende zu Spielen", wie ich es mir aufgrund der freien Rollenspiele zu wünschen begann.
 
-Das weitaus größere Problem war jedoch, dass ich, mit meinem Mentalen Erkrankungen, ein Belastung bin, die viele Gruppen nicht tragen können, und ich letztlich habe sagen müssen "alle Gruppen mit mir drin streiten und gehen kaputt. Mir sind aber die Menschen wichtiger. Auch als Roleplay-Junkie muss ich einbüßen. Das Problem bin eben ich."
+Das weitaus größere Problem war jedoch, dass ich, mit meinem mentalen Erkrankungen, ein Belastung bin, die viele Gruppen nicht tragen können, und ich letztlich habe sagen müssen "alle Gruppen mit mir drin streiten und gehen kaputt. Mir sind aber die Menschen wichtiger. Auch als Roleplay-Junkie muss ich einbüßen. Das Problem bin eben ich."
 
 Und so endete es. Immer wieder fang ich an, Gruppen zu suchen und anzufangen zu spielen, und immer wieder scheitere ich aufgrund meines Verhaltens, das durch meine Vergangenheit und Krankheiten so abartig und anders ist, dass es nicht verständlich ist und viel zu belastend für Spielleiter und Spieler.
-Mein Wunsch bleibt, aber ich zusammen mit den Sozialen Problemen, die sich auch nach über 5 Jahren aktiver Arbeit von mir nicht gebessert haben, die Problemen die noch länger dabei sind und nicht zu ändern sind, bin ich auch noch absolut Regeldumm. Neue Settings und Regelwerke zu verstehen ist extrem schwer für mich.
+Mein Wunsch bleibt, aber ich zusammen mit den sozialen Problemen, die sich auch nach über 5 Jahren aktiver Arbeit von mir nicht gebessert haben, den Problemen, die noch länger dabei sind und nicht zu ändern sind, bin ich auch noch absolut regeldumm. Neue Settings und Regelwerke zu verstehen ist extrem schwer für mich.
 
 Jede neue Runde, die schief geht, erschwert es bis ins Unendliche.
 Also falls ihr Platz in eurer Runde habt, für mich und evtl auch einen anderen Mitspieler, überlegt euch gut, ob mir jemanden mit massiven psychischen Problemen "tragen" könnt.
@@ -68,9 +68,9 @@ Also falls ihr Platz in eurer Runde habt, für mich und evtl auch einen anderen 
 Stellt die Fragen im Stream,
 ### Montags ab 13.30
 ### Donnerstags ab 19.00
-oder in meinem Discord!
+ oder in meinem Discord!
 ---
----
+ ---
 ### **Wo findet ihr Azalea**
 - [Carrd](https://wahrlichweird.carrd.co/ "https://wahrlichweird.carrd.co/") 
 - [Twitch](https://t.co/d8z3QjRlNX)
