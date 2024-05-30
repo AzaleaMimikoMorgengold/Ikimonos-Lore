@@ -5,7 +5,7 @@ tags:
 share: true
 ---
 > [!investigativ]
-> [[../../Vorwort#^wissen|vorwort > ^wissen]]
+> [[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
 
 ![[../z_Assets/tyrel.png|tyrel.png]]
 
