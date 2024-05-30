@@ -1,8 +1,42 @@
-.callout {
-  &[data-callout="spyder"] {
+.callout[data-callout="spyder"] {
     --color: #a64d63;
     --border: #99334d;
     --bg: #800020;
     --callout-icon: url();
   }
-}
+  
+  .callout[data-callout="OT"] {
+    --color: #ca80ff;
+    --border: #6800b3;
+    --bg: #6800b3;
+    --callout-icon: url();
+  }
+  
+  .callout[data-callout="WIP"] {
+    --color: #e099ff;
+    --border: #9400D3;
+    --bg: #9400D3;
+    --callout-icon: url();
+  }
+  
+  .callout[data-callout="allgemein"] {
+    --color: #6ff400;
+    --border: #00b300;
+    --bg: #00b300;
+    --callout-icon: url();
+  }
+  
+  .callout[data-callout="investigativ"] {
+    --color: #fff2cc;
+    --border: #ffbf00;
+    --bg: #ffbf00;
+    --callout-icon: url();
+  }
+  
+  .callout[data-callout="meta"] {
+    --color: #4d000b;
+    --border: #ff0025;
+    --bg: #ff0025;
+    --callout-icon: url();
+  }
+
