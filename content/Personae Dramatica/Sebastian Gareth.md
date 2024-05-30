@@ -4,8 +4,12 @@ img:
 alias: 
 tags: 
 ---
+
+> [!investigativ]
+
+![[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
 ![[../z_Assets/Sebastian.png|Sebastian.png]]
-## Basisinformationen
+## <font color="#9400D3"> Basisinformation</font>
 - **Name:**  Gareth
 - **Vorname:** Sebastian
 - **Spitzname:** - 
@@ -62,13 +66,13 @@ tags:
 ---
 Christian Wagner]] (Opa, mütterlicherseits, nie kennengelernt) • Annika Mai]] (Oma, mütterlicherseits, nie kennengelernt) • Vincent Gareth]] (Vater)  • 
 Theresa Gareth]] (Mutter)
-[[./Morien Muto --- WIP|Morien Muto --- WIP]] (Cousin, x-ten Grades)
+[[./Morien Muto|Morien Muto]] (Cousin, x-ten Grades)
 ### (Ex-)Partner
 keine 
 ### Romantische Interessen
 keine
 ### Freunde
-[[./Morien Muto --- WIP|Morien Muto --- WIP]] • Cookie]] • Vinur Draugs]]
+[[./Morien Muto|Morien Muto]] • Cookie]] • Vinur Draugs]]
 ### Frenemies/Rivals
 keine 
 ### Bekannte und Kollegen
@@ -80,7 +84,7 @@ keine Informationen
 
 ---
 ## Beziehungen
- - **[[./Morien Muto --- WIP|Morien Muto --- WIP]]** 
+ - **[[./Morien Muto|Morien Muto]]** 
  Am Anfang nur ein Stammgast im Frozen Hell, durch den Zufall mit Cookie werden sie "gezwungen" zusammen zu arbeiten, mittlerweile ein guter Freund, kümmert sich mit ihm zusammen um Cookie
 
 - **Cookie]]**

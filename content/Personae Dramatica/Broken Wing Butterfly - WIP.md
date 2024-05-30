@@ -5,7 +5,10 @@ tags:
 share: true
 ---
 ![[../z_Assets/bwb.png|bwb.png]]
-## Basisinformation
+> [!investigativ]
+
+![[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
+## <font color="#9400D3"> Basisinformation</font>
 - **Verbrechername:** Broken Wing Butterfly
 - **Spitzname:** BWB, Small Fry, Glassbee, Schmetter
 - **Titel/Rang:** Master Hacker
@@ -69,9 +72,9 @@ Interessen: Ht eine
  Teil von [[SpyderNetwork|SpyderNetwork]]
 ---
  ---
- [[../../Spyder - Very Much Work in Progress|Spyder - Very Much Work in Progress]] (Chef, Mentor) • [[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] (Vorbild)
+ [[../../Spyder|Spyder]] (Chef, Mentor) • [[../../Arkadi Sébastien Babanin|Arkadi Sébastien Babanin]] (Vorbild)
  ---
- [[../../Spyder - Very Much Work in Progress|Spyder - Very Much Work in Progress]] (Partner in Crime) • [[../../Natasha Grigorev|Natasha Grigorev]] (Kollege)
+ [[../../Spyder|Spyder]] (Partner in Crime) • [[../../Natasha Grigorev|Natasha Grigorev]] (Kollege)
  ---
   -
 ---
@@ -86,25 +89,25 @@ Interessen: Ht eine
 ##### Privatpersonen
 [[../../Helena Asa|Helena Asa]]
 ##### Opfer
-[[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] • [[./Jacob Asa --- WIP|Jacob Asa --- WIP]] • [[./Katrina Klava --- WIP|Katrina Klava --- WIP]] • [[./Morien Muto --- WIP|Morien Muto --- WIP]] • [[../../Natasha Grigorev|Natasha Grigorev]] • weitere unbekannte
+[[../../Arkadi Sébastien Babanin|Arkadi Sébastien Babanin]] • [[./Jacob Asa|Jacob Asa]] • [[./Katrina Klava|Katrina Klava]] • [[./Morien Muto|Morien Muto]] • [[../../Natasha Grigorev|Natasha Grigorev]] • weitere unbekannte
 
 ---
 ## Beziehungen
-- **[[../../Arkadi Sébastien Babanin - Very Much Work in Progress|Arkadi Sébastien Babanin - Very Much Work in Progress]] (Vorbild)**
+- **[[../../Arkadi Sébastien Babanin|Arkadi Sébastien Babanin]] (Vorbild)**
 ASB ist so cool, so stark, und macht die besten Pralinen der Welt! Ich wünschte ich wäre mehr wie er...
 - **[[Ash.Ink|Ash.Ink]] (Bully)**
 Ich weiß nicht, woher Ash.Ink kommt, ich finde keine Informationen über ihn, ich komme nicht durch, aber er scheint plötzlich überall zu sein, wo ich bin - selbst das andere Ich! Er macht mir Angst...
-- **[[./Jacob Asa --- WIP|Jacob Asa --- WIP]] (Target:DeepDive)**
+- **[[./Jacob Asa|Jacob Asa]] (Target:DeepDive)**
 Eigentlich nur jemand, den ich bis aufs Mark durchleuchten sollte, aber ehrlich gesagt habe ich jetzt Angst davor, in seine Kreise zu kommen.
-- **[[./Katrina Klava --- WIP|Katrina Klava --- WIP]]  (Target:DeepDive)**
+- **[[./Katrina Klava|Katrina Klava]]  (Target:DeepDive)**
 Eigentlich nur jemand, den ich bis aufs Mark durchleuchten sollte, und während ich sie anfangs noch bewundert habe, hat sich bald schon Eifersucht und Neid in mir breit gemacht, gefolgt von milder Sorge, dass sie meinen Weg kreuzt.
-- **[[./Morien Muto --- WIP|Morien Muto --- WIP]] ((Target:DeepDive)**
+- **[[./Morien Muto|Morien Muto]] ((Target:DeepDive)**
 Eigentlich nur jemand, den ich bis aufs Mark durchleuchten sollte, und dann soll ich, ICH! ihm die Daten über seinen Auftrag geben? Fucking Awkward...
 - **[[../../Natasha Grigorev|Natasha Grigorev]] (kinda Senpai?)**
 Vor Natasha hab ich hart Respekt, die Frau ist härter als Stahl und weicher als der fluffigste Fellstoff. So ganz weiß ich nie, woran ich bei ihr bin, aber ich schätze ihren hohen Gerechtigkeitssinn. Und dass sie mich nicht ausgeliefert hat. Ich schulde ihr dafür noch was...
 - **[[../../Security-Asa|Security-Asa]] (ultimative Herausforderung)**
 Hooooly Moly, es war leichter, sich durchs FBI zu wühlen als an irgendwas heranzukommen, was diese Firma verbirgt. Hoffentlich muss ich nie wieder einen Asa durchleuchten.... oder zumindest nicht bei im Anwesen. Holy.
-- **[[../../Spyder - Very Much Work in Progress|Spyder - Very Much Work in Progress]] (Mentor)**
+- **[[../../Spyder|Spyder]] (Mentor)**
 Ja, eigentlich ist Spyder 'nur' mein Chef, aber er... sie?... lehrt mich alles, um meine Fähigkeiten zu perfektionieren und Spyder ist einfach beeindruckend!!
 - **[[SpyderNetwork|SpyderNetwork]] (fast ein Heim)**
 Ich suche noch immer nach meinem Platz im Leben, aber das SPN hat mir zumindest einen Anker gegeben, der mich im Strudel dieser wilden Zeiten sicher hält und die Richtung weist.---

@@ -4,7 +4,9 @@ alias:
 tags: 
 share: true
 ---
+> [!allgemein]
 
+![[Vorwort#^wissen|Vorwort > ^wissen]]
 <font color="#6800b3">OT</font>
  # ''Neo'' Erde?
  Dieses Rollenspiel spielt in der 'echten' Welt, allerdings etwas mehr als 100 Jahre in der Zukunft. Durch Dinge, die während dieser 100+ Jahre passierten und das Bild der Erde, wie wir sie kennen, änderten, habe ich die Welt 'Neo-Erde' getauft, um sie von der reellen Erde abzugrenzen. Immerhin ist seitdem ich dieses Setting erschuf und heute jede Menge Zeit vergangen und extrem viel passiert, was 2009 noch undenkbar schien - ein paar Sachen nehmen aber eben auch Bezug auf echte Dinge, die wirklich passiert sind/passieren, und wenn man spielend lernen kann, dann warum nicht?

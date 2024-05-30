@@ -4,8 +4,12 @@ alias:
 tags: 
 share: true
 ---
+
+> [!investigativ]
+
+![[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
 ![[../z_Assets/nanami1.png|nanami1.png]]
-## Basisinformation
+## <font color="#9400D3"> Basisinformation</font>
 - **Vollständiger Name: Nanami Muto**
 - **Spitzname: Nana (von ihren Freunden)**
 - **Titel | Alias-Identitäten: Junge Herrin (von den Angestellten)**
