@@ -4,7 +4,11 @@ alias:
 tags: 
 share: true
 ---
-## Liste
+> [!allgemein]
+
+![[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
+## <font color="#9400D3"> Liste</font>
+
 #### Speiseeis
 |   |        **Eissorten**        |    |        **Spezialeis**        |
 |:----------------:|:----------------------:|:----------------:|:----------------------------:|
