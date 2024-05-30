@@ -5,7 +5,8 @@ tags:
 share: true
 ---
 > [!investigativ]
-> [[../private/datenzeugsel#^wissen|datenzeugsel > ^wissen]]
+> [[../../Vorwort#^wissen|vorwort > ^wissen]]
+
 ![[../z_Assets/tyrel.png|tyrel.png]]
 
 ## Basisinformation

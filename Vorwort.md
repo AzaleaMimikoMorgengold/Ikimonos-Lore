@@ -8,6 +8,5 @@
 > Daher kommt diese kleine Nachricht bei jedem Eintrag daher, der euch vorwarnt, wie weit ihr euch **spoilern** könntet. 
 >  ⬇️
 >  
-> ![[./content/private/datenzeugsel#^wissen|datenzeugsel > ^wissen]]
+> Wissen gibt es hier in unterschiedlichen Verbreitungsstufen: <font color="#00b300">allgemein</font>, <font color="#ffbf00">investigativ</font>, <font color="#ff0025"> meta</font>. ^wissen
 > ⬆️
-> Hier, in diesem Artikel gibt es absolut keine Spoiler, es ist euer Einstieg in das Setting der Welt der Ikimonos. Ich gebe euch, was ihr wissen würdet, wenn ihr hier aufgewachsen wärt, völlig ohne Story Bezüge, alles nur bis zum Start der Geschichte.
