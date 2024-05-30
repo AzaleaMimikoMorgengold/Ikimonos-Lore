@@ -1,8 +1,14 @@
 ---
+img: 
+alias: 
+tags: 
 share: true
 ---
+> [!investigativ]
 
-[[../z_Assets/spydersmeetup.png|spydersmeetup.png]]
+![[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
+
+![[../z_Assets/spydersmeetup.png|spydersmeetup.png]]
 
 Der Ort, von dem man weiß, was einen erwartet, der aber immer ein klein wenig anders aussieht - auch für jeden Anwesenden, der zeitgleich im Raum ist. Dazu verändert er sich die ganze Zeit subtil, einige Pixel lösen sich auf, formen sich neu.... Ein hypnotischer Anblick, von dem sich Willensschwache kaum losreißen können. 
 Spyder offenbart den Eingang zu seinem "Thronsaal", dem "Spinnennest" immer nur kurz mit einem virtuellen Schlüssel, den man sofort nutzen muss, sonst zerfällt er und wird ungültig.
@@ -32,6 +38,13 @@ So ist das Nest nicht nur ein Treffpunkt für die Elite der Schattenwelt, sonder
 | -------------------------- | ---------------------------------- |
 | ![[../z_Assets/spyderstrickstar.jpg|spyderstrickstar.jpg]] | ![[../z_Assets/spydersmile.jpg|spydersmile.jpg]]               |
  ![[../z_Assets/doublespyder.jpg|doublespyder.jpg]]  
+
+
+
+> [!meta]
+
+![[../1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
+## <font color="#9400D3"> Basisinformation</font>
 
 ## Atmosphärische Anpassungen
 Der virtuelle Raum passt sich nicht nur optisch an die Stimmungen und Erinnerungen der Anwesenden an, sondern beeinflusst auch subtil deren Emotionen durch eine Vielzahl von sensorischen Inputs wie Gerüche, Geräusche und Temperatur. Diese Elemente sind so fein abgestimmt, dass die Besucher unbewusst beruhigt oder angespannt werden, je nachdem, welche Reaktion Spyder wünscht.
