@@ -4,6 +4,9 @@ alias:
 tags: 
 share: true
 ---
+> [!meta]
+
+![[./Vorwort#^wissen|Vorwort > ^wissen]]
 # Who?
 ## Azalea Mimiko Morgengold - WahrlichWeird
 ##### Die Spielleiterin, Vtuber, Streamerin, Dice Dragon, comfy creative chaotic, absolut größenwahnsinnig und Vollzeit (/≧▽≦)/ Certified Nut Job \\(≧▽≦\\)
