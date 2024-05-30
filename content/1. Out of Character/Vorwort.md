@@ -15,6 +15,6 @@ share: true
  Daher kommt diese kleine Nachricht bei jedem Eintrag daher, der euch vorwarnt, wie weit ihr euch **spoilern** könntet. 
   ⬇️
   
- Wissen gibt es hier in unterschiedlichen Verbreitungsstufen: <font color="#00b300">allgemein</font>, <font color="#ffbf00">investigativ</font>, <font color="#ff0025"> meta</font>. ^wissen
+Wissen gibt es hier in unterschiedlichen Verbreitungsstufen: <font color="#00b300">allgemein</font>, <font color="#ffbf00">investigativ</font>, <font color="#ff0025"> meta</font>. ^wissen
  
  ⬆️
