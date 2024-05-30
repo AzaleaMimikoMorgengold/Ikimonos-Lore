@@ -7,22 +7,37 @@ share: true
 
 
 
-<font color="#000066">Example01</font> blubb
-<font color="#00008B">Example02</font> blubb
-<font color="#004D00">Example03</font> blubb
-<font color="#006400">Example04</font> blubb
-<font color="#00FF00">Example05</font> blubb
-<font color="#1E90FF">Example06</font> blubb
-<font color="#333333">Example07</font> blubb
-<font color="#36004D">Example08</font> blubb
-<font color="#4B0082">Example09</font> blubb
-<font color="#660015">Example10</font> blubb
-<font color="#800020">Example11</font> blubb
-<font color="#9400D3">Example12</font> blubb
+<font color="#ffbf00">Gelb1</font> blubb
+
+<font color="#00b300">Grün3.1</font> blubb
+<font color="#009900">Grün1</font> blubb
+<font color="#006400">Grün2</font> blubb
+<font color="#00FF00">Grün3</font> blubb
+
+<font color="#1E90FF">Blau1</font> blubb
+<font color="#0040ff">Blau2</font> blubb
+
+<font color="#cc0000">Rot1</font> blubb
+<font color="#4d0000">Rot2</font> blubb
+<font color="#660000">Rot3</font> blubb
+<font color="#800000">Rot4</font> blubb
+<font color="#ff0025">Rot5</font> blubb
+<font color="#990000">Rot6</font> blubb
+<font color="#ff0000">Rot7</font> blubb
+
+<font color="#B03060">Example15</font> blu
+<font color="#9400D3">Example12</font> blu
+
+<font color="#4b0082">Example09.0</font> blubb
+<font color="#6800b3">Example09.1</font> blubb
+<font color="#590099">Example09.2</font> blubb
+<font color="#3b0066">Example09.3</font> blubb
+
+<font color="#800020">Example11</font> blubbb
 <font color="#99334D">Example13</font> blubb
 <font color="#A64D63">Example14</font> blubb
-<font color="#B03060">Example15</font> blubb
-<font color="#CCCCCC">Example16</font> blubb
+
+<font color="#4d4d4d">Example16.1</font> blubb
 
 
 
