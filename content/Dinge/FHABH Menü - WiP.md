@@ -6,23 +6,23 @@ share: true
 ---
 ## Liste
 #### Speiseeis
-|  **Eissorten**   |        **über**        |  **Eissorten**   |        **Spezialeis**        |
+|   |        **Eissorten**        |    |        **Spezialeis**        |
 |:----------------:|:----------------------:|:----------------:|:----------------------------:|
 |     Vanille      |       Kokosnuss        |      Apfel       |        Avocado-Wasabi        |
-|    Schokolade    | Schwarze Johannisbeere | Bitterschokolade |   Blauschimmelkäse & Honig   |
+|Vollmilchschokolade    | Schwarze Johannisbeere | Bitterschokolade |   Blauschimmelkäse & Honig   |
 |     Erdbeere     |         Malaga         | Weiße Schokolade | Gerösteter Sesam & Sojasauce |
-|    Haselnuss     |         Mango          | Milchschokolade  | Olivenöl & schwarzem Pfeffer |
+|    Haselnuss     |         Mango          | Altherrenschokolade  | Olivenöl & schwarzem Pfeffer |
 |     Pistazie     |        Joghurt         |       Mohn       |         Kürbiskernöl         |
 |     Zitrone      |        Tiramisu        |      Honig       |       Tomate-Basilikum       |
 |      Banane      |     Amarena-Kirsch     |      Kürbis      |      Geräucherter Lachs      |
-|     Karamell     |      Pfefferminz       |      Melone      |         Curry-Kokos          |
+|     Karamell     |      Pfefferminz       |      Honigmelone |         Curry-Kokos          |
 |     Himbeere     |          Zimt          |   Waldmeister    |        Bier & Brezeln        |
-|      Kaffee      |         Nougat         |     (Matcha)     |       Scharfe Sriracha       |
+|      Kaffee      |         Nougat         |     Matcha    |       Scharfe Sriracha       |
 | Minze-Schokolade |         Orange         |  Erdnussbutter   |          Gurke-Dill          |
 |  Stracciatella   |        Pfirsich        |  Salted Caramel  |      Ziegenkäse & Feige      |
 |    Waldfrucht    |       Blaubeere        |     Lavendel     |    Rote Bete & Schokolade    |
 | Cookies & Cream  |        Maracuja        |    Basilikum     |     Cheesecake & Cracker     |
-|                  |                        |                  |        Matcha & Yuzu         |
+|Wassermelone| Spekulatius |  Brombeere    |        Matcha & Yuzu         |
 
 #### Spezialitäten des Hauses, Kuchen, Torten
 |           Spezialitäten des Hauses            |            Kuchen             |           Torten            |
@@ -49,6 +49,21 @@ share: true
 | Teufelsheiße Schokolade  |         Karamellhölle          |     Engelsflügel-Croissants     |
 | Wolkenweicher Cappuccino |        Zitrus-Eisgarten        |   Gartenfrische Fruchtsalate    |
 |    Kräutergarten-Tee     | Schokoladentraum im Frostnebel |   Himmlisch-herzhafte Quiche    |
+
+
+
+
+## Ausführliche Beschreibung
+
+### Speiseeis
+### Spezialeis
+### Spezialitäten des Hauses
+### Kuchen und Torten
+### Warme Getränke
+### Eisbecher
+### Snacks und Gebäck
+
+
 
 
 
