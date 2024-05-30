@@ -7,7 +7,7 @@ share: true
 
 
 > [!allgemein] 
-> [[^^|^^]]
+> [[./Vorwort#^wissen|Vorwort > ^wissen]]
 
 # <font color="#9400D3"> Entwicklung und Geschichte</font>
 ## Neo-Erde: Der Tod der alten Welt
