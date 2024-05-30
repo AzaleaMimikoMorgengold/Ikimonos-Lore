@@ -4,6 +4,10 @@ alias:
 tags: 
 share: true
 ---
+> [!allgemein]
+
+![[./Vorwort#^wissen|Vorwort > ^wissen]]
+
 ## Charakter 
 Ein vom Spieler kreierter und gesteuerter fiktiver Akteur, der als wichtige Figur fungiert. Durch seine Interaktionen und Entscheidungen treibt er die Handlung voran. [[Glossar#Player Character (PC)|Player Character (PC)]][[Glossar#Non-Player Character (NPC)|Non-Player Character (NPC)]]
 
