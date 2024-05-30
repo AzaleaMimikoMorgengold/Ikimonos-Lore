@@ -4,8 +4,6 @@ alias:
 tags: 
 share: true
 ---
-
-
 > [!allgemein] 
 
 ![[./Vorwort#^wissen|Vorwort > ^wissen]]
