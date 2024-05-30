@@ -4,7 +4,10 @@ aliases:
 tags: 
 share: true
 ---
+> [!investigativ]
+> [[../private/datenzeugsel#^wissen|datenzeugsel > ^wissen]]
 ![[../z_Assets/tyrel.png|tyrel.png]]
+
 ## Basisinformation
 **Vollständiger Name: ** Tyrel Muto
 **Spitzname:** Big Guy (von Morien) T(von einigen) 
