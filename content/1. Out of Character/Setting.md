@@ -5,7 +5,10 @@ tags:
 share: true
 ---
 
->
+
+> [!allgemein] 
+> [[^^|^^]]
+
 # <font color="#9400D3"> Entwicklung und Geschichte</font>
 ## Neo-Erde: Der Tod der alten Welt
 ### (Weltpolitische/Weltgeschichte)
