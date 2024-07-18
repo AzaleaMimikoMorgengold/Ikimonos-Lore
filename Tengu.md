@@ -80,7 +80,8 @@ Beschreibung aus Sicht des Charakters/Dynamik der Charaktere zueinander
 - **Erfolge**
 - **Kuriose Fakten:**
 ## Zitate
-- **Lieblingszitat:**"Leben ist kein Ponyhof, aber reiten können wir trotzdem."
+"Sei wie Sternschnuppen: Selten, aber unvergesslich."
+- **Lieblingszitat:**
 ## Media
 - YouTube:** 📺 Username**
 - TikTok:** 🎶 Username**

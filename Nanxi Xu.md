@@ -7,8 +7,8 @@ share: false
 > [!investigativ]
 
 ![[./content/1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
-## <font color="#9400D3"> Basisinformation</font>
-- **Vollständiger Name:**
+##  Basisinformation
+- <font color="#9400D3">**Vollständiger Name:**</font> 
 - **Spitzname/Alias/Titel:**
 - **Geburtstag:** (Wassermann: ♒ Fische: ♓ Widder: ♈ Stier: ♉ Zwillinge: ♊ Krebs: ♋ Löwe: ♌  Jungfrau: ♍ Waage: ♎ Skorpion: ♏ Schütze: ♐ Steinbock: ♑ )
 - **Alter:**
@@ -32,16 +32,16 @@ share: false
 
 ## Soziales Netzwerk
 ### Familie
-[[Stammbaum|Stammbaum]]
+ [[Stammbaum|Stammbaum]]
 ---
 ---
-**[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter)
+ **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter) • **[[Name|Name]]**(Rolle zu Charakter)
 ---
 ###### Verstorben:
 [[Name(Rolle)|Name(Rolle)]] (Rolle) • [[MehrName|MehrName]] (YouGet) • [[Jemand|Jemand]] (TheDrift)
 ## Trivia
 - **Kuriose Fakten:**
-## Zitate
+## Zitate"Sei kein Blatt, sei der Baum."
 ## Media
 - YouTube:** 📺 Username**
 - TikTok:** 🎶 Username**

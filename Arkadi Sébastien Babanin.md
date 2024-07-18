@@ -7,17 +7,17 @@ share: false
 > [!investigativ]
 
 ![[./content/1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
-## <font color="#9400D3"> Basisinformation</font>
-- **Vollständiger Name:**
-- **Spitzname/Alias/Titel:**
-- **Geburtstag:** (Wassermann: ♒ Fische: ♓ Widder: ♈ Stier: ♉ Zwillinge: ♊ Krebs: ♋ Löwe: ♌  Jungfrau: ♍ Waage: ♎ Skorpion: ♏ Schütze: ♐ Steinbock: ♑ )
+## Basisinformation
+- <font color="#9400D3">**Vollständiger Name:**</font> Arkadi Sébastien Babanin
+- **Spitzname/Alias/Titel:** Seb, Sebi, Babsi, ASB
+- **Geburtstag:** 06. (Wassermann: ♒ Fische: ♓ Widder: ♈ Stier: ♉ Zwillinge: ♊ Krebs: ♋ Löwe: ♌  Jungfrau: ♍ Waage: ♎ Skorpion: ♏ Schütze: ♐ Steinbock: ♑ )
 - **Alter:**
 - **Beruf/Ausbildung:**
 - **Genetische Besonderheit:**
 ---
 ---
 ## Aussehen
-- **Besondere Merkmale:**
+- **Besondere Merkmale:** Trägt am liebsten Musketier-Uniformen in seiner Freizeit, oder davon inspirierte Kleidungsstile
 
 ## Details
 **Persönlichkeit:**
@@ -41,7 +41,7 @@ share: false
 [[Name(Rolle)|Name(Rolle)]] (Rolle) • [[MehrName|MehrName]] (YouGet) • [[Jemand|Jemand]] (TheDrift)
 ## Trivia
 - **Kuriose Fakten:**
-## Zitate
+## Zitate Bevor du durchdrehst, überprüfe, ob du nicht einfach nur hungrig bist. "Die meisten Probleme lassen sich durch das richtige Essen lösen"
 ## Media
 - YouTube:** 📺 Username**
 - TikTok:** 🎶 Username**

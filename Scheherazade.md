@@ -80,7 +80,8 @@ Beschreibung aus Sicht des Charakters/Dynamik der Charaktere zueinander
 - **Erfolge**
 - **Kuriose Fakten:**
 ## Zitate
-- **Lieblingszitat:**"Leben ist kein Ponyhof, aber reiten können wir trotzdem."
+- "Talk is cheap." / "Quatsch nicht, mach!"
+- **Lieblingszitat:**
 ## Media
 - YouTube:** 📺 Username**
 - TikTok:** 🎶 Username**

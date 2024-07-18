@@ -80,7 +80,7 @@ Beschreibung aus Sicht des Charakters/Dynamik der Charaktere zueinander
 - **Erfolge**
 - **Kuriose Fakten:**
 ## Zitate
-- **Lieblingszitat:**"Leben ist kein Ponyhof, aber reiten können wir trotzdem."
+- **Lieblingszitat:**"Träume groß, schlaf klein."
 ## Media
 - YouTube:** 📺 Username**
 - TikTok:** 🎶 Username**
