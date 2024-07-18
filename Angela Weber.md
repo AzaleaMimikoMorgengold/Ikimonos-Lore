@@ -4,7 +4,10 @@ alias:
 tags: 
 share: false
 ---
-## Basisinformation
+> [!investigativ]
+
+![[./content/1. Out of Character/Vorwort#^wissen|Vorwort > ^wissen]]
+## <font color="#9400D3"> Basisinformation</font>
 - **Vollständiger Name:**
 - **Spitzname/Alias/Titel:**
 - **Geburtstag:** (Wassermann: ♒ Fische: ♓ Widder: ♈ Stier: ♉ Zwillinge: ♊ Krebs: ♋ Löwe: ♌  Jungfrau: ♍ Waage: ♎ Skorpion: ♏ Schütze: ♐ Steinbock: ♑ )
